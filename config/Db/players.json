@@ -53,7 +53,7 @@
         "species": "Xerneas",
         "item": "wikiberry",
         "ability": "Fairy Aura",
-        "moves": ["geomancy", "moonblast", "outrage", "Close Combat"],
+        "moves": ["geomancy", "moonblast", "outrage", "flash cannon"],
         "nature": "Modest",
         "gender": "none",
         "ivs": {
