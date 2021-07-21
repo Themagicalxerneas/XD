@@ -53,7 +53,12 @@
         "species": "Xerneas",
         "item": "wikiberry",
         "ability": "Fairy Aura",
-        "moves": ["geomancy", "moonblast", "outrage", "Close Combat"],
+        "moves": [
+          "geomancy",
+          "moonblast",
+          "outrage",
+          "Close Combat"
+        ],
         "nature": "Modest",
         "gender": "none",
         "ivs": {
@@ -85,7 +90,12 @@
         "species": "Groudon",
         "item": "redorb",
         "ability": "Drought",
-        "moves": ["Precipice Blades", "eruption", "meanlook", "solarbeam"],
+        "moves": [
+          "Precipice Blades",
+          "eruption",
+          "meanlook",
+          "solarbeam"
+        ],
         "nature": "Impish",
         "evs": {
           "hp": 255,
@@ -116,7 +126,12 @@
         "species": "Kyogre",
         "item": "blueorb",
         "ability": "Primordial Sea",
-        "moves": ["originpulse", "icebeam", "earthquake", "brickbreak"],
+        "moves": [
+          "originpulse",
+          "icebeam",
+          "earthquake",
+          "brickbreak"
+        ],
         "nature": "Impish",
         "evs": {
           "hp": 255,
@@ -147,7 +162,12 @@
         "species": "Mewtwo",
         "item": "mewtwonitex",
         "ability": "pressure",
-        "moves": ["earthquake", "Stone Edge", "meteormash", "brickbreak"],
+        "moves": [
+          "earthquake",
+          "Stone Edge",
+          "meteormash",
+          "brickbreak"
+        ],
         "nature": "Sassy",
         "gender": "F",
         "ivs": {
@@ -171,7 +191,12 @@
         "species": "Rayquaza",
         "item": "wikiberry",
         "ability": "Air Lock",
-        "moves": ["dragonascent", "v-create", "dracometeor", "dragonpulse"],
+        "moves": [
+          "dragonascent",
+          "v-create",
+          "dracometeor",
+          "dragonpulse"
+        ],
         "nature": "Relaxed",
         "evs": {
           "hp": 3,
@@ -203,7 +228,12 @@
         "species": "arceus",
         "item": "leftovers",
         "ability": "Multitype",
-        "moves": ["earthpower", "extremespeed", "recover", "ancientpower"],
+        "moves": [
+          "earthpower",
+          "extremespeed",
+          "recover",
+          "ancientpower"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -288,7 +318,13 @@
         "species": "xerneas",
         "item": "",
         "ability": "Fairy Aura",
-        "moves": ["geomancy", "moonblast", "focusblast", "thunder", "tackle"],
+        "moves": [
+          "geomancy",
+          "moonblast",
+          "focusblast",
+          "thunder",
+          "tackle"
+        ],
         "nature": "Modest",
         "evs": {
           "hp": 252,
@@ -354,7 +390,12 @@
         "species": "marshadow",
         "item": "focussash",
         "ability": "Technician",
-        "moves": ["spectralthief", "closecombat", "shadowsneak", "endeavor"],
+        "moves": [
+          "spectralthief",
+          "closecombat",
+          "shadowsneak",
+          "endeavor"
+        ],
         "nature": "Serious",
         "evs": {
           "hp": 252,
@@ -384,7 +425,12 @@
         "species": "groudonprimal",
         "item": "earthplate",
         "ability": "Desolate Land",
-        "moves": ["earthquake", "heatcrash", "hammerarm", "precipiceblades"],
+        "moves": [
+          "earthquake",
+          "heatcrash",
+          "hammerarm",
+          "precipiceblades"
+        ],
         "nature": "Adamant",
         "evs": {
           "hp": 252,
@@ -414,7 +460,12 @@
         "species": "kyogre",
         "item": "leftovers",
         "ability": "Drizzle",
-        "moves": ["block", "rest", "calmmind", "scald"],
+        "moves": [
+          "block",
+          "rest",
+          "calmmind",
+          "scald"
+        ],
         "nature": "Timid",
         "evs": {
           "hp": 252,
@@ -698,7 +749,13 @@
         "species": "xerneas",
         "item": "powerherb",
         "ability": "Fairy Aura",
-        "moves": ["focusblast", "geomancy", "moonblast", "psychup", "thunder"],
+        "moves": [
+          "focusblast",
+          "geomancy",
+          "moonblast",
+          "psychup",
+          "thunder"
+        ],
         "nature": "Modest",
         "evs": {
           "hp": 252,
@@ -801,7 +858,12 @@
         "species": "arceus",
         "item": "leftovers",
         "ability": "Multitype",
-        "moves": ["earthquake", "swordsdance", "recover", "extremespeed"],
+        "moves": [
+          "earthquake",
+          "swordsdance",
+          "recover",
+          "extremespeed"
+        ],
         "nature": "Adamant",
         "evs": {
           "hp": 252,
@@ -889,7 +951,12 @@
         "species": "rayquaza",
         "item": "lifeorb",
         "ability": "airlock",
-        "moves": ["dragonascent", "earthquake", "extremespeed", "dragon dance"],
+        "moves": [
+          "dragonascent",
+          "earthquake",
+          "extremespeed",
+          "dragon dance"
+        ],
         "nature": "Adamant",
         "evs": {
           "hp": 333,
@@ -919,7 +986,12 @@
         "species": "yveltal",
         "item": "choicescarf",
         "ability": "darkaura",
-        "moves": ["oblivionwing", "darkpulse", "foulplay", "uturn"],
+        "moves": [
+          "oblivionwing",
+          "darkpulse",
+          "foulplay",
+          "uturn"
+        ],
         "nature": "Rash",
         "ivs": {
           "hp": 333,
@@ -949,7 +1021,12 @@
         "species": "arceus",
         "item": "pixieplate",
         "ability": "Multitype",
-        "moves": ["judgement", "toxic", "recover", "defog"],
+        "moves": [
+          "judgement",
+          "toxic",
+          "recover",
+          "defog"
+        ],
         "nature": "Bold",
         "evs": {
           "hp": 333,
@@ -979,7 +1056,12 @@
         "species": "arceus",
         "item": "ironplate",
         "ability": "Multitype",
-        "moves": ["calmmind", "judgement", "earthpower", "recover"],
+        "moves": [
+          "calmmind",
+          "judgement",
+          "earthpower",
+          "recover"
+        ],
         "nature": "Timid",
         "ivs": {
           "hp": 333,
@@ -1009,7 +1091,12 @@
         "species": "groudonprimal",
         "item": "earthplate",
         "ability": "Desolate Land",
-        "moves": ["earthquake", "toxic", "roar", "stealthrock"],
+        "moves": [
+          "earthquake",
+          "toxic",
+          "roar",
+          "stealthrock"
+        ],
         "nature": "Sassy",
         "gender": "F",
         "evs": {
@@ -1040,7 +1127,12 @@
         "species": "marshadow",
         "item": "marshadiumz",
         "ability": "Adaptability",
-        "moves": ["bulkup", "spectralthief", "closecombat", "shadowsneak"],
+        "moves": [
+          "bulkup",
+          "spectralthief",
+          "closecombat",
+          "shadowsneak"
+        ],
         "nature": "Jolly",
         "evs": {
           "hp": 333,
@@ -1123,7 +1215,12 @@
         "species": "blaziken",
         "item": "",
         "ability": "Blaze",
-        "moves": ["fire blast", "origin pulse", "dark pulse", "surf"],
+        "moves": [
+          "fire blast",
+          "origin pulse",
+          "dark pulse",
+          "surf"
+        ],
         "nature": "Mild",
         "gender": "M",
         "ivs": {
@@ -1154,7 +1251,12 @@
         "species": "tepig",
         "item": "",
         "ability": "Blaze",
-        "moves": ["odorsleuth", "ember", "tailwhip", "tackle"],
+        "moves": [
+          "odorsleuth",
+          "ember",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -1185,7 +1287,11 @@
         "species": "popplio",
         "item": "",
         "ability": "Torrent",
-        "moves": ["growl", "watergun", "pound"],
+        "moves": [
+          "growl",
+          "watergun",
+          "pound"
+        ],
         "nature": "Lonely",
         "gender": "M",
         "ivs": {
@@ -1216,7 +1322,11 @@
         "species": "articuno",
         "item": "",
         "ability": "Pressure",
-        "moves": ["powdersnow", "gust", "mist"],
+        "moves": [
+          "powdersnow",
+          "gust",
+          "mist"
+        ],
         "nature": "Adamant",
         "gender": "N",
         "ivs": {
@@ -1247,7 +1357,11 @@
         "species": "snivy",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["vinewhip", "leer", "tackle"],
+        "moves": [
+          "vinewhip",
+          "leer",
+          "tackle"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -1270,7 +1384,11 @@
         "species": "zekrom",
         "item": "",
         "ability": "Teravolt",
-        "moves": ["thunderfang", "dragonrage", "imprison"],
+        "moves": [
+          "thunderfang",
+          "dragonrage",
+          "imprison"
+        ],
         "nature": "Serious",
         "gender": "N",
         "ivs": {
@@ -1332,14 +1450,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "treecko",
         "species": "treecko",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["quickattack", "absorb", "pound", "leer"],
+        "moves": [
+          "quickattack",
+          "absorb",
+          "pound",
+          "leer"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -1370,7 +1504,12 @@
         "species": "tangrowth",
         "item": "",
         "ability": "Leaf Guard",
-        "moves": ["absorb", "vinewhip", "sleeppowder", "ingrain"],
+        "moves": [
+          "absorb",
+          "vinewhip",
+          "sleeppowder",
+          "ingrain"
+        ],
         "nature": "Bold",
         "gender": "M",
         "ivs": {
@@ -1452,7 +1591,12 @@
         "species": "mewtwo",
         "item": "",
         "ability": "Pressure",
-        "moves": ["miracleeye", "futuresight", "swift", "psychocut"],
+        "moves": [
+          "miracleeye",
+          "futuresight",
+          "swift",
+          "psychocut"
+        ],
         "nature": "Lonely",
         "gender": "N",
         "ivs": {
@@ -1483,7 +1627,12 @@
         "species": "mew",
         "item": "",
         "ability": "Synchronize",
-        "moves": ["megapunch", "transform", "reflecttype", "metronome"],
+        "moves": [
+          "megapunch",
+          "transform",
+          "reflecttype",
+          "metronome"
+        ],
         "nature": "Quiet",
         "gender": "N",
         "ivs": {
@@ -1514,7 +1663,12 @@
         "species": "groudon",
         "item": "",
         "ability": "Drought",
-        "moves": ["rest", "lavaplume", "earthpower", "earthquake"],
+        "moves": [
+          "rest",
+          "lavaplume",
+          "earthpower",
+          "earthquake"
+        ],
         "nature": "Lax",
         "gender": "N",
         "ivs": {
@@ -1545,7 +1699,12 @@
         "species": "marshadow",
         "item": "",
         "ability": "Technician",
-        "moves": ["shadowpunch", "copycat", "jumpkick", "spectralthief"],
+        "moves": [
+          "shadowpunch",
+          "copycat",
+          "jumpkick",
+          "spectralthief"
+        ],
         "nature": "Sassy",
         "gender": "N",
         "ivs": {
@@ -1576,7 +1735,12 @@
         "species": "greninja",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "waterpulse", "smackdown", "watershuriken"],
+        "moves": [
+          "lick",
+          "waterpulse",
+          "smackdown",
+          "watershuriken"
+        ],
         "nature": "Relaxed",
         "gender": "M",
         "ivs": {
@@ -1607,7 +1771,12 @@
         "species": "zeraora",
         "item": "",
         "ability": "Volt Absorb",
-        "moves": ["discharge", "closecombat", "plasmafists", "quickguard"],
+        "moves": [
+          "discharge",
+          "closecombat",
+          "plasmafists",
+          "quickguard"
+        ],
         "nature": "Lax",
         "gender": "N",
         "ivs": {
@@ -1669,14 +1838,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "torchic",
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["sandattack", "ember", "scratch", "growl"],
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Lonely",
         "gender": "M",
         "ivs": {
@@ -1730,14 +1915,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "Belle",
         "species": "diancie",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["smackdown", "sharpen", "tackle", "rockthrow"],
+        "moves": [
+          "smackdown",
+          "sharpen",
+          "tackle",
+          "rockthrow"
+        ],
         "nature": "Relaxed",
         "gender": "N",
         "ivs": {
@@ -1768,7 +1969,12 @@
         "species": "bidoof",
         "item": "",
         "ability": "Unaware",
-        "moves": ["headbutt", "rollout", "defensecurl", "tackle"],
+        "moves": [
+          "headbutt",
+          "rollout",
+          "defensecurl",
+          "tackle"
+        ],
         "nature": "Sassy",
         "gender": "M",
         "ivs": {
@@ -1791,7 +1997,12 @@
         "species": "eevee",
         "item": "",
         "ability": "Run Away",
-        "moves": ["babydolleyes", "sandattack", "tailwhip", "tackle"],
+        "moves": [
+          "babydolleyes",
+          "sandattack",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -1822,7 +2033,12 @@
         "species": "gastly",
         "item": "",
         "ability": "Levitate",
-        "moves": ["meanlook", "spite", "lick", "hypnosis"],
+        "moves": [
+          "meanlook",
+          "spite",
+          "lick",
+          "hypnosis"
+        ],
         "nature": "Lax",
         "gender": "F",
         "ivs": {
@@ -1845,7 +2061,12 @@
         "species": "shuppet",
         "item": "",
         "ability": "Frisk",
-        "moves": ["shadowsneak", "spite", "nightshade", "screech"],
+        "moves": [
+          "shadowsneak",
+          "spite",
+          "nightshade",
+          "screech"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -1919,7 +2140,12 @@
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["sandattack", "ember", "scratch", "growl"],
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Relaxed",
         "gender": "M",
         "ivs": {
@@ -1950,7 +2176,12 @@
         "species": "plusle",
         "item": "",
         "ability": "Plus",
-        "moves": ["spark", "helpinghand", "thunderwave", "quickattack"],
+        "moves": [
+          "spark",
+          "helpinghand",
+          "thunderwave",
+          "quickattack"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -1981,7 +2212,12 @@
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Hardy",
         "gender": "M",
         "ivs": {
@@ -2012,7 +2248,9 @@
         "species": "magikarp",
         "item": "",
         "ability": "Swift Swim",
-        "moves": ["splash"],
+        "moves": [
+          "splash"
+        ],
         "nature": "Hasty",
         "gender": "F",
         "ivs": {
@@ -2043,7 +2281,12 @@
         "species": "mewtwo",
         "item": "",
         "ability": "Surge Surfer",
-        "moves": ["thundershock", "thunderbolt", "tailwhip", "psychic"],
+        "moves": [
+          "thundershock",
+          "thunderbolt",
+          "tailwhip",
+          "psychic"
+        ],
         "nature": "alone",
         "gender": "M",
         "ivs": {
@@ -2074,7 +2317,12 @@
         "species": "zygarde",
         "item": "",
         "ability": "Fluffy",
-        "moves": ["earthquake", "thousand arrows", "outrage", "shadow force"],
+        "moves": [
+          "earthquake",
+          "thousand arrows",
+          "outrage",
+          "shadow force"
+        ],
         "nature": "Hardy",
         "gender": "F",
         "ivs": {
@@ -2151,7 +2399,12 @@
         "species": "charmeleon",
         "item": "",
         "ability": "Blaze",
-        "moves": ["psychic", "fire blast", "smokescreen", "firefang"],
+        "moves": [
+          "psychic",
+          "fire blast",
+          "smokescreen",
+          "firefang"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -2182,7 +2435,12 @@
         "species": "zekrom",
         "item": "choicescarf",
         "ability": "Teravolt",
-        "moves": ["crunch", "earthquake", "fusionbolt", "outrage"],
+        "moves": [
+          "crunch",
+          "earthquake",
+          "fusionbolt",
+          "outrage"
+        ],
         "nature": "Lax",
         "gender": "N",
         "ivs": {
@@ -2273,7 +2531,12 @@
         "species": "eevee",
         "item": "",
         "ability": "Adaptability",
-        "moves": ["babydolleyes", "sandattack", "tailwhip", "quickattack"],
+        "moves": [
+          "babydolleyes",
+          "sandattack",
+          "tailwhip",
+          "quickattack"
+        ],
         "nature": "Mild",
         "gender": "M",
         "ivs": {
@@ -2304,7 +2567,9 @@
         "species": "cosmog",
         "item": "",
         "ability": "Unaware",
-        "moves": ["splash"],
+        "moves": [
+          "splash"
+        ],
         "nature": "Docile",
         "gender": "N",
         "ivs": {
@@ -2335,7 +2600,12 @@
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["growl", "bubble", "quickattack", "lick"],
+        "moves": [
+          "growl",
+          "bubble",
+          "quickattack",
+          "lick"
+        ],
         "nature": "Sassy",
         "evs": {
           "hp": 2,
@@ -2366,7 +2636,10 @@
         "species": "rayquaza",
         "item": "",
         "ability": "Air Lock",
-        "moves": ["scaryface", "twister"],
+        "moves": [
+          "scaryface",
+          "twister"
+        ],
         "nature": "Sassy",
         "ivs": {
           "hp": 1,
@@ -2396,7 +2669,12 @@
         "species": "azelf",
         "item": "",
         "ability": "Levitate",
-        "moves": ["rest", "naturalgift", "lastresort", "confusion"],
+        "moves": [
+          "rest",
+          "naturalgift",
+          "lastresort",
+          "confusion"
+        ],
         "nature": "Naive",
         "evs": {
           "hp": 3,
@@ -2426,7 +2704,12 @@
         "species": "celesteela",
         "item": "",
         "ability": "Beast Boost",
-        "moves": ["smackdown", "wideguard", "tackle", "ingrain"],
+        "moves": [
+          "smackdown",
+          "wideguard",
+          "tackle",
+          "ingrain"
+        ],
         "nature": "Bold",
         "evs": {
           "hp": 0,
@@ -2487,14 +2770,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "cat",
         "species": "eevee",
         "item": "",
         "ability": "Run Away",
-        "moves": ["babydolleyes", "sandattack", "tackle", "quickattack"],
+        "moves": [
+          "babydolleyes",
+          "sandattack",
+          "tackle",
+          "quickattack"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -2525,7 +2824,12 @@
         "species": "aron",
         "item": "",
         "ability": "Rock Head",
-        "moves": ["rocktomb", "metalclaw", "headbutt", "protect"],
+        "moves": [
+          "rocktomb",
+          "metalclaw",
+          "headbutt",
+          "protect"
+        ],
         "nature": "Impish",
         "gender": "M",
         "ivs": {
@@ -2556,7 +2860,12 @@
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Hasty",
         "gender": "M",
         "ivs": {
@@ -2579,7 +2888,12 @@
         "species": "monferno",
         "item": "",
         "ability": "Blaze",
-        "moves": ["furyswipes", "taunt", "ember", "scratch"],
+        "moves": [
+          "furyswipes",
+          "taunt",
+          "ember",
+          "scratch"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -2633,14 +2947,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "torchic",
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["sandattack", "ember", "scratch", "growl"],
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Quirky",
         "gender": "F",
         "ivs": {
@@ -2671,7 +3001,12 @@
         "species": "mudkip",
         "item": "",
         "ability": "Torrent",
-        "moves": ["mudslap", "watergun", "tackle", "foresight"],
+        "moves": [
+          "mudslap",
+          "watergun",
+          "tackle",
+          "foresight"
+        ],
         "nature": "Timid",
         "gender": "M",
         "ivs": {
@@ -2702,7 +3037,12 @@
         "species": "thundurus",
         "item": "",
         "ability": "Prankster",
-        "moves": ["bite", "uproar", "thundershock", "thrash"],
+        "moves": [
+          "bite",
+          "uproar",
+          "thundershock",
+          "thrash"
+        ],
         "nature": "Naughty",
         "gender": "M",
         "ivs": {
@@ -2733,7 +3073,12 @@
         "species": "landorus",
         "item": "",
         "ability": "Sand Force",
-        "moves": ["punishment", "rocktomb", "outrage", "mudshot"],
+        "moves": [
+          "punishment",
+          "rocktomb",
+          "outrage",
+          "mudshot"
+        ],
         "nature": "Quiet",
         "gender": "M",
         "ivs": {
@@ -2787,14 +3132,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "braixen",
         "species": "braixen",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "howl", "flamecharge", "psybeam"],
+        "moves": [
+          "ember",
+          "howl",
+          "flamecharge",
+          "psybeam"
+        ],
         "nature": "Naive",
         "gender": "M",
         "ivs": {
@@ -2856,14 +3217,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "eevee",
         "species": "eevee",
         "item": "",
         "ability": "Run Away",
-        "moves": ["babydolleyes", "sandattack", "tailwhip", "tackle"],
+        "moves": [
+          "babydolleyes",
+          "sandattack",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Calm",
         "gender": "M",
         "ivs": {
@@ -2894,7 +3271,11 @@
         "species": "amaura",
         "item": "",
         "ability": "Refrigerate",
-        "moves": ["thunderwave", "powdersnow", "growl"],
+        "moves": [
+          "thunderwave",
+          "powdersnow",
+          "growl"
+        ],
         "nature": "Sassy",
         "gender": "M",
         "ivs": {
@@ -2968,7 +3349,12 @@
         "species": "keldeo",
         "item": "",
         "ability": "Justified",
-        "moves": ["bubblebeam", "doublekick", "aquajet", "takedown"],
+        "moves": [
+          "bubblebeam",
+          "doublekick",
+          "aquajet",
+          "takedown"
+        ],
         "nature": "Quirky",
         "gender": "N",
         "ivs": {
@@ -2999,7 +3385,12 @@
         "species": "bayleef",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["poisonpowder", "razorleaf", "tackle", "growl"],
+        "moves": [
+          "poisonpowder",
+          "razorleaf",
+          "tackle",
+          "growl"
+        ],
         "nature": "Naughty",
         "gender": "M",
         "ivs": {
@@ -3030,7 +3421,12 @@
         "species": "quilava",
         "item": "",
         "ability": "Blaze",
-        "moves": ["flamewheel", "quickattack", "ember", "smokescreen"],
+        "moves": [
+          "flamewheel",
+          "quickattack",
+          "ember",
+          "smokescreen"
+        ],
         "nature": "Calm",
         "gender": "M",
         "ivs": {
@@ -3053,7 +3449,12 @@
         "species": "rockruff",
         "item": "",
         "ability": "Keen Eye",
-        "moves": ["howl", "bite", "sandattack", "tackle"],
+        "moves": [
+          "howl",
+          "bite",
+          "sandattack",
+          "tackle"
+        ],
         "nature": "Sassy",
         "gender": "M",
         "ivs": {
@@ -3076,7 +3477,12 @@
         "species": "umbreon",
         "item": "",
         "ability": "Synchronize",
-        "moves": ["feintattack", "confuseray", "quickattack", "babydolleyes"],
+        "moves": [
+          "feintattack",
+          "confuseray",
+          "quickattack",
+          "babydolleyes"
+        ],
         "nature": "Adamant",
         "gender": "F",
         "ivs": {
@@ -3099,7 +3505,12 @@
         "species": "girafarig",
         "item": "",
         "ability": "Inner Focus",
-        "moves": ["stomp", "assurance", "odorsleuth", "tackle"],
+        "moves": [
+          "stomp",
+          "assurance",
+          "odorsleuth",
+          "tackle"
+        ],
         "nature": "Impish",
         "gender": "M",
         "ivs": {
@@ -3181,7 +3592,12 @@
         "species": "keldeo",
         "item": "oranberry",
         "ability": "Justified",
-        "moves": ["bubblebeam", "doublekick", "leer", "aquajet"],
+        "moves": [
+          "bubblebeam",
+          "doublekick",
+          "leer",
+          "aquajet"
+        ],
         "nature": "Quiet",
         "gender": "N",
         "ivs": {
@@ -3204,7 +3620,12 @@
         "species": "bayleef",
         "item": "oranberry",
         "ability": "Overgrow",
-        "moves": ["poisonpowder", "razorleaf", "tackle", "growl"],
+        "moves": [
+          "poisonpowder",
+          "razorleaf",
+          "tackle",
+          "growl"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -3235,7 +3656,12 @@
         "species": "cyndaquil",
         "item": "",
         "ability": "Blaze",
-        "moves": ["quickattack", "ember", "smokescreen", "tackle"],
+        "moves": [
+          "quickattack",
+          "ember",
+          "smokescreen",
+          "tackle"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -3258,7 +3684,12 @@
         "species": "eevee",
         "item": "",
         "ability": "Adaptability",
-        "moves": ["refresh", "bite", "swift", "quickattack"],
+        "moves": [
+          "refresh",
+          "bite",
+          "swift",
+          "quickattack"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -3284,7 +3715,7 @@
     "version": "(Alpha) 1.0",
     "userid": "pukiop",
     "poke": 0,
-    "time": 196698240,
+    "time": 196703050,
     "bag": {
       "items": {
         "leafstone": 1,
@@ -3370,7 +3801,10 @@
         "garchomp||||dragonrush,dig,dragonclaw,slash|Lax||F|28,19,30,25,28,13||97|70,,masterball,1140841.25,pukiop",
         "xurkitree||||zapcannon,iondeluge,powerwhip,electricterrain|Bashful|||23,,15,6,,||99|70,,masterball,1212873.75,pukiop",
         "silvally||||partingshot,doubleedge,triattack,razorwind|Hardy|||17,7,10,27,16,27||97|70,,masterball,1140841.25,pukiop",
-        "roserade|||1|weatherball,venomdrench,sweetscent,poisonsting|Bashful||F|15,17,29,0,1,5|||70,,masterball,1059860,pukiop"
+        "roserade|||1|weatherball,venomdrench,sweetscent,poisonsting|Bashful||F|15,17,29,0,1,5|||70,,masterball,1059860,pukiop",
+        "gardevoir|||1|moonblast,storedpower,dreameater,hypnosis|Hardy||M|16,23,17,4,19,4|||70,,masterball,1250000,pukiop",
+        "solgaleo||||gigaimpact,wideguard,flareblitz,nobleroar|Naughty|||10,16,9,30,13,14||98|70,,masterball,1176490,pukiop",
+        "dialga||||flashcannon,roaroftime,irontail,aurasphere|Relaxed|||,,24,,11,20|||70,,masterball,1250000,pukiop"
       ],
       [
         "tapubulu||||skullbash,megahorn,zenheadbutt,naturesmadness|Careful|6,9,1,5,2,7||16,,28,9,,||95|70,,masterball,1105153.1520914882,pukiop",
@@ -3561,11 +3995,6 @@
         "magneton|||1|zapcannon,gyroball,magnetrise,lockon|Calm|||6,1,10,1,21,|||70,,masterball,1000000,pukiop"
       ],
       [
-        "zeraora||airballoon||plasmafists,icepunch,outrage,rest|Relaxed|5,43,26,30,26,45|F|12,9,2,15,27,24|||70,,pokeball,1250000,pukiop",
-        "Arceus||zapplate||judgment,icebeam,recover,energyball|Naive|38,71,41,44,36,33||18,19,8,30,27,12|||70,,masterball,1250000,pukiop",
-        "Manectric||manectite|intimidate|thunderbolt,hiddenpowerice,flamethrower,firefang|Hasty|29,24,45,38,47,19||16,5,,,8,|||70,,masterball,1250000,pukiop",
-        "zapdos||iapapaberry||thunderbolt,roost,heatwave,airslash|Quirky|53,74,33,59,38,54|M|22,35,40,50,35,35|||70,,pokeball,1250000,pukiop",
-        "tapukoko||airballoon||thunderbolt,grassknot,dazzlinggleam,roost|Quiet|5,18,3,22,9,1|F|25,65,35,20,30,55|||70,,pokeball,1250000,pukiop",
         "rotom||||discharge,charge,hex,electroball|Docile|5,3,,3,3,||30,30,14,26,30,29|||70,,greatball,1000000,pukiop"
       ],
       [
@@ -3587,7 +4016,12 @@
         "species": "zekrom",
         "item": "electriumz",
         "ability": "Teravolt",
-        "moves": ["roost", "outrage", "boltstrike", "ancientpower"],
+        "moves": [
+          "roost",
+          "outrage",
+          "boltstrike",
+          "ancientpower"
+        ],
         "nature": "Bold",
         "evs": {
           "hp": 61,
@@ -3613,43 +4047,103 @@
         "ot": "pukiop"
       },
       {
-        "name": "gardevoir",
-        "species": "gardevoir",
-        "item": "",
-        "ability": "Trace",
-        "moves": ["moonblast", "storedpower", "dreameater", "hypnosis"],
-        "nature": "Hardy",
-        "gender": "M",
+        "name": "zeraora",
+        "species": "zeraora",
+        "item": "airballoon",
+        "ability": "Volt Absorb",
+        "moves": [
+          "plasmafists",
+          "icepunch",
+          "outrage",
+          "rest"
+        ],
+        "nature": "Relaxed",
+        "evs": {
+          "hp": 5,
+          "atk": 43,
+          "def": 26,
+          "spa": 30,
+          "spd": 26,
+          "spe": 45
+        },
+        "gender": "F",
+        "ivs": {
+          "hp": 12,
+          "atk": 9,
+          "def": 2,
+          "spa": 15,
+          "spd": 27,
+          "spe": 24
+        },
+        "level": 100,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1250000,
+        "ot": "pukiop"
+      },
+      {
+        "name": "Arceus",
+        "species": "Arceus",
+        "item": "zapplate",
+        "ability": "Multitype",
+        "moves": [
+          "judgment",
+          "icebeam",
+          "recover",
+          "energyball"
+        ],
+        "nature": "Naive",
+        "evs": {
+          "hp": 38,
+          "atk": 71,
+          "def": 41,
+          "spa": 44,
+          "spd": 36,
+          "spe": 33
+        },
+        "ivs": {
+          "hp": 18,
+          "atk": 19,
+          "def": 8,
+          "spa": 30,
+          "spd": 27,
+          "spe": 12
+        },
+        "level": 100,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "masterball",
+        "exp": 1250000,
+        "ot": "pukiop"
+      },
+      {
+        "name": "Manectric",
+        "species": "Manectric",
+        "item": "manectite",
+        "ability": "intimidate",
+        "moves": [
+          "thunderbolt",
+          "hiddenpowerice",
+          "flamethrower",
+          "firefang"
+        ],
+        "nature": "Hasty",
+        "evs": {
+          "hp": 29,
+          "atk": 24,
+          "def": 45,
+          "spa": 38,
+          "spd": 47,
+          "spe": 19
+        },
         "ivs": {
           "hp": 16,
-          "atk": 23,
-          "def": 17,
-          "spa": 4,
-          "spd": 19,
-          "spe": 4
-        },
-        "level": 100,
-        "happiness": 70,
-        "hpType": "",
-        "pokeball": "masterball",
-        "exp": 1250000,
-        "ot": "pukiop"
-      },
-      {
-        "name": "dialga",
-        "species": "dialga",
-        "item": "",
-        "ability": "Pressure",
-        "moves": ["flashcannon", "roaroftime", "irontail", "aurasphere"],
-        "nature": "Relaxed",
-        "gender": "N",
-        "ivs": {
-          "hp": 31,
-          "atk": 31,
-          "def": 24,
+          "atk": 5,
+          "def": 31,
           "spa": 31,
-          "spd": 11,
-          "spe": 20
+          "spd": 8,
+          "spe": 31
         },
         "level": 100,
         "happiness": 70,
@@ -3659,26 +4153,75 @@
         "ot": "pukiop"
       },
       {
-        "name": "solgaleo",
-        "species": "solgaleo",
-        "item": "",
-        "ability": "Full Metal Body",
-        "moves": ["gigaimpact", "wideguard", "flareblitz", "nobleroar"],
-        "nature": "Naughty",
-        "gender": "N",
-        "ivs": {
-          "hp": 10,
-          "atk": 16,
-          "def": 9,
-          "spa": 30,
-          "spd": 13,
-          "spe": 14
+        "name": "zapdos",
+        "species": "zapdos",
+        "item": "iapapaberry",
+        "ability": "Pressure",
+        "moves": [
+          "thunderbolt",
+          "roost",
+          "heatwave",
+          "airslash"
+        ],
+        "nature": "Quirky",
+        "evs": {
+          "hp": 53,
+          "atk": 74,
+          "def": 33,
+          "spa": 59,
+          "spd": 38,
+          "spe": 54
         },
-        "level": 98,
+        "gender": "M",
+        "ivs": {
+          "hp": 22,
+          "atk": 35,
+          "def": 40,
+          "spa": 50,
+          "spd": 35,
+          "spe": 35
+        },
+        "level": 100,
         "happiness": 70,
         "hpType": "",
-        "pokeball": "masterball",
-        "exp": 1176490,
+        "pokeball": "pokeball",
+        "exp": 1250000,
+        "ot": "pukiop"
+      },
+      {
+        "name": "tapukoko",
+        "species": "tapukoko",
+        "item": "airballoon",
+        "ability": "Electric Surge",
+        "moves": [
+          "thunderbolt",
+          "grassknot",
+          "dazzlinggleam",
+          "roost"
+        ],
+        "nature": "Quiet",
+        "evs": {
+          "hp": 5,
+          "atk": 18,
+          "def": 3,
+          "spa": 22,
+          "spd": 9,
+          "spe": 1
+        },
+        "gender": "F",
+        "ivs": {
+          "hp": 25,
+          "atk": 65,
+          "def": 35,
+          "spa": 20,
+          "spd": 30,
+          "spe": 55
+        },
+        "level": 100,
+        "happiness": 70,
+        "hpType": "",
+        "pokeball": "pokeball",
+        "exp": 1250000,
         "ot": "pukiop"
       }
     ],
@@ -3745,7 +4288,12 @@
         "species": "silvally",
         "item": "Dark Memory",
         "ability": "Battle Armor",
-        "moves": ["flare blitz", "multi attack", "play rough", "swords dance"],
+        "moves": [
+          "flare blitz",
+          "multi attack",
+          "play rough",
+          "swords dance"
+        ],
         "nature": "Sassy",
         "gender": "N",
         "ivs": {
@@ -3776,7 +4324,12 @@
         "species": "shiftry",
         "item": "",
         "ability": "Early Bird",
-        "moves": ["dark pulse", "thunder", "gunk shot", "earthquake"],
+        "moves": [
+          "dark pulse",
+          "thunder",
+          "gunk shot",
+          "earthquake"
+        ],
         "nature": "Bashful",
         "gender": "F",
         "ivs": {
@@ -3807,7 +4360,12 @@
         "species": "frogadier",
         "item": "",
         "ability": "Torrent",
-        "moves": ["waterpulse", "lick", "quickattack", "round"],
+        "moves": [
+          "waterpulse",
+          "lick",
+          "quickattack",
+          "round"
+        ],
         "nature": "Naive",
         "gender": "F",
         "ivs": {
@@ -3838,7 +4396,12 @@
         "species": "mewtwo",
         "item": "leftovers",
         "ability": "psychic surge",
-        "moves": ["psystrike", "thunderbolt", "calm mind", "aura sphere"],
+        "moves": [
+          "psystrike",
+          "thunderbolt",
+          "calm mind",
+          "aura sphere"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -3869,7 +4432,12 @@
         "species": "suicune",
         "item": "",
         "ability": "Pressure",
-        "moves": ["raindance", "bubblebeam", "sheercold", "leer"],
+        "moves": [
+          "raindance",
+          "bubblebeam",
+          "sheercold",
+          "leer"
+        ],
         "nature": "Rash",
         "gender": "N",
         "ivs": {
@@ -3900,7 +4468,12 @@
         "species": "bisharp",
         "item": "darkinium z",
         "ability": "dark aura",
-        "moves": ["swords dance", "close combat", "ironhead", "suckerpunch"],
+        "moves": [
+          "swords dance",
+          "close combat",
+          "ironhead",
+          "suckerpunch"
+        ],
         "nature": "Bashful",
         "gender": "N",
         "ivs": {
@@ -3980,7 +4553,12 @@
         "species": "magearna",
         "item": "",
         "ability": "Soul-Heart",
-        "moves": ["sonicboom", "shiftgear", "psybeam", "aurorabeam"],
+        "moves": [
+          "sonicboom",
+          "shiftgear",
+          "psybeam",
+          "aurorabeam"
+        ],
         "nature": "Naughty",
         "gender": "N",
         "ivs": {
@@ -4120,7 +4698,12 @@
         "species": "suicune",
         "item": "",
         "ability": "Pressure",
-        "moves": ["blizzard", "calmmind", "hydropump", "extrasensory"],
+        "moves": [
+          "blizzard",
+          "calmmind",
+          "hydropump",
+          "extrasensory"
+        ],
         "nature": "Lax",
         "evs": {
           "hp": 4,
@@ -4150,7 +4733,12 @@
         "species": "azumarill",
         "item": "",
         "ability": "Huge Power",
-        "moves": ["hydropump", "superpower", "doubleedge", "raindance"],
+        "moves": [
+          "hydropump",
+          "superpower",
+          "doubleedge",
+          "raindance"
+        ],
         "nature": "Rash",
         "evs": {
           "hp": 0,
@@ -4181,7 +4769,12 @@
         "species": "greninja",
         "item": "",
         "ability": "Torrent",
-        "moves": ["spikes", "shadowsneak", "substitute", "extrasensory"],
+        "moves": [
+          "spikes",
+          "shadowsneak",
+          "substitute",
+          "extrasensory"
+        ],
         "nature": "Hardy",
         "evs": {
           "hp": 22,
@@ -4212,7 +4805,12 @@
         "species": "gyarados",
         "item": "",
         "ability": "Intimidate",
-        "moves": ["hyperbeam", "raindance", "hurricane", "dragondance"],
+        "moves": [
+          "hyperbeam",
+          "raindance",
+          "hurricane",
+          "dragondance"
+        ],
         "nature": "Naughty",
         "evs": {
           "hp": 0,
@@ -4243,7 +4841,12 @@
         "species": "wingull",
         "item": "",
         "ability": "Keen Eye",
-        "moves": ["hurricane", "airslash", "agility", "roost"],
+        "moves": [
+          "hurricane",
+          "airslash",
+          "agility",
+          "roost"
+        ],
         "nature": "Sassy",
         "gender": "F",
         "ivs": {
@@ -4297,14 +4900,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Mild",
         "gender": "M",
         "ivs": {
@@ -4387,7 +5006,12 @@
         "species": "scizor",
         "item": "",
         "ability": "Technician",
-        "moves": ["falseswipe", "pursuit", "focusenergy", "quickattack"],
+        "moves": [
+          "falseswipe",
+          "pursuit",
+          "focusenergy",
+          "quickattack"
+        ],
         "nature": "Modest",
         "gender": "M",
         "ivs": {
@@ -4418,7 +5042,12 @@
         "species": "heatran",
         "item": "",
         "ability": "Flash Fire",
-        "moves": ["magmastorm", "ironhead", "heatwave", "firefang"],
+        "moves": [
+          "magmastorm",
+          "ironhead",
+          "heatwave",
+          "firefang"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -4449,7 +5078,12 @@
         "species": "necrozmaduskmane",
         "item": "",
         "ability": "Prism Armor",
-        "moves": ["photon geyser", "outrage", "sunsteel strike", "moonlight"],
+        "moves": [
+          "photon geyser",
+          "outrage",
+          "sunsteel strike",
+          "moonlight"
+        ],
         "nature": "Lax",
         "gender": "N",
         "ivs": {
@@ -4480,7 +5114,12 @@
         "species": "klefki",
         "item": "",
         "ability": "Prankster",
-        "moves": ["astonish", "fairywind", "tackle", "fairylock"],
+        "moves": [
+          "astonish",
+          "fairywind",
+          "tackle",
+          "fairylock"
+        ],
         "nature": "Quiet",
         "gender": "F",
         "ivs": {
@@ -4511,7 +5150,12 @@
         "species": "magearna",
         "item": "",
         "ability": "Soul-Heart",
-        "moves": ["luckychant", "sonicboom", "shiftgear", "psybeam"],
+        "moves": [
+          "luckychant",
+          "sonicboom",
+          "shiftgear",
+          "psybeam"
+        ],
         "nature": "Hardy",
         "ivs": {
           "hp": 31,
@@ -4541,7 +5185,12 @@
         "species": "kartana",
         "item": "",
         "ability": "Beast Boost",
-        "moves": ["synthesis", "razorleaf", "falseswipe", "vacuumwave"],
+        "moves": [
+          "synthesis",
+          "razorleaf",
+          "falseswipe",
+          "vacuumwave"
+        ],
         "nature": "Docile",
         "ivs": {
           "hp": 21,
@@ -4602,14 +5251,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Naughty",
         "gender": "M",
         "ivs": {
@@ -4663,14 +5328,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Naive",
         "gender": "M",
         "ivs": {
@@ -4758,7 +5439,12 @@
         "species": "cresselia",
         "item": "",
         "ability": "Levitate",
-        "moves": ["safeguard", "psychoshift", "psychocut", "moonlight"],
+        "moves": [
+          "safeguard",
+          "psychoshift",
+          "psychocut",
+          "moonlight"
+        ],
         "nature": "Bold",
         "ivs": {
           "hp": 31,
@@ -4788,7 +5474,12 @@
         "species": "riolu",
         "item": "",
         "ability": "Steadfast",
-        "moves": ["copycat", "forcepalm", "feint", "counter"],
+        "moves": [
+          "copycat",
+          "forcepalm",
+          "feint",
+          "counter"
+        ],
         "nature": "Bashful",
         "evs": {
           "hp": 0,
@@ -4819,7 +5510,12 @@
         "species": "grovyle",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["quickattack", "megadrain", "pursuit", "furycutter"],
+        "moves": [
+          "quickattack",
+          "megadrain",
+          "pursuit",
+          "furycutter"
+        ],
         "nature": "Sassy",
         "evs": {
           "hp": 5,
@@ -4850,7 +5546,12 @@
         "species": "togedemaru",
         "item": "",
         "ability": "Lightning Rod",
-        "moves": ["nuzzle", "spark", "charge", "rollout"],
+        "moves": [
+          "nuzzle",
+          "spark",
+          "charge",
+          "rollout"
+        ],
         "nature": "Sassy",
         "evs": {
           "hp": 0,
@@ -4881,7 +5582,12 @@
         "species": "ponyta",
         "item": "",
         "ability": "Run Away",
-        "moves": ["flamecharge", "stomp", "flamewheel", "ember"],
+        "moves": [
+          "flamecharge",
+          "stomp",
+          "flamewheel",
+          "ember"
+        ],
         "nature": "Careful",
         "evs": {
           "hp": 0,
@@ -4912,7 +5618,12 @@
         "species": "raikou",
         "item": "",
         "ability": "Pressure",
-        "moves": ["quickattack", "roar", "thundershock", "leer"],
+        "moves": [
+          "quickattack",
+          "roar",
+          "thundershock",
+          "leer"
+        ],
         "nature": "Relaxed",
         "ivs": {
           "hp": 21,
@@ -5310,7 +6021,12 @@
         "species": "rayquaza",
         "item": "",
         "ability": "deltastream",
-        "moves": ["outrage", "dragonascent", "vcreate", "extremespeed"],
+        "moves": [
+          "outrage",
+          "dragonascent",
+          "vcreate",
+          "extremespeed"
+        ],
         "nature": "Jolly",
         "evs": {
           "hp": 3,
@@ -5372,14 +6088,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "squirtle",
         "species": "squirtle",
         "item": "",
         "ability": "Torrent",
-        "moves": ["withdraw", "watergun", "tailwhip", "tackle"],
+        "moves": [
+          "withdraw",
+          "watergun",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Hasty",
         "gender": "M",
         "ivs": {
@@ -5471,7 +6203,12 @@
         "species": "dialga",
         "item": "",
         "ability": "Pressure",
-        "moves": ["metalclaw", "scaryface", "dragonbreath", "ancientpower"],
+        "moves": [
+          "metalclaw",
+          "scaryface",
+          "dragonbreath",
+          "ancientpower"
+        ],
         "nature": "Mild",
         "gender": "N",
         "ivs": {
@@ -5502,7 +6239,12 @@
         "species": "pignite",
         "item": "",
         "ability": "Blaze",
-        "moves": ["flamecharge", "armthrust", "rollout", "takedown"],
+        "moves": [
+          "flamecharge",
+          "armthrust",
+          "rollout",
+          "takedown"
+        ],
         "nature": "Naughty",
         "gender": "F",
         "ivs": {
@@ -5533,7 +6275,12 @@
         "species": "necrozmadawnwings",
         "item": "",
         "ability": "Prism Armor",
-        "moves": ["slash", "moonlight", "mirrorshot", "storedpower"],
+        "moves": [
+          "slash",
+          "moonlight",
+          "mirrorshot",
+          "storedpower"
+        ],
         "nature": "Hasty",
         "ivs": {
           "hp": 31,
@@ -5563,7 +6310,11 @@
         "species": "darkrai",
         "item": "",
         "ability": "Bad Dreams",
-        "moves": ["quickattack", "ominouswind", "disable"],
+        "moves": [
+          "quickattack",
+          "ominouswind",
+          "disable"
+        ],
         "nature": "Bashful",
         "ivs": {
           "hp": 31,
@@ -5593,7 +6344,12 @@
         "species": "prinplup",
         "item": "",
         "ability": "Torrent",
-        "moves": ["bubblebeam", "peck", "watersport", "bubble"],
+        "moves": [
+          "bubblebeam",
+          "peck",
+          "watersport",
+          "bubble"
+        ],
         "nature": "Serious",
         "gender": "F",
         "ivs": {
@@ -5616,7 +6372,12 @@
         "species": "regirock",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["rockthrow", "stomp", "explosion", "chargebeam"],
+        "moves": [
+          "rockthrow",
+          "stomp",
+          "explosion",
+          "chargebeam"
+        ],
         "nature": "Hasty",
         "ivs": {
           "hp": 2,
@@ -5669,14 +6430,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "turtwig",
         "species": "turtwig",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["absorb", "withdraw", "tackle", "razorleaf"],
+        "moves": [
+          "absorb",
+          "withdraw",
+          "tackle",
+          "razorleaf"
+        ],
         "nature": "Sassy",
         "gender": "M",
         "ivs": {
@@ -5707,7 +6484,12 @@
         "species": "oshawott",
         "item": "",
         "ability": "Torrent",
-        "moves": ["watergun", "tailwhip", "tackle", "watersport"],
+        "moves": [
+          "watergun",
+          "tailwhip",
+          "tackle",
+          "watersport"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -5738,7 +6520,12 @@
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -5769,7 +6556,11 @@
         "species": "bagon",
         "item": "",
         "ability": "Rock Head",
-        "moves": ["leer", "ember", "rage"],
+        "moves": [
+          "leer",
+          "ember",
+          "rage"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -5843,7 +6634,12 @@
         "species": "spinarak",
         "item": "",
         "ability": "Swarm",
-        "moves": ["infestation", "absorb", "poisonsting", "shadowsneak"],
+        "moves": [
+          "infestation",
+          "absorb",
+          "poisonsting",
+          "shadowsneak"
+        ],
         "nature": "Quirky",
         "gender": "F",
         "ivs": {
@@ -5874,7 +6670,12 @@
         "species": "popplio",
         "item": "",
         "ability": "Torrent",
-        "moves": ["disarmingvoice", "watergun", "babydolleyes", "icywind"],
+        "moves": [
+          "disarmingvoice",
+          "watergun",
+          "babydolleyes",
+          "icywind"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -5905,7 +6706,12 @@
         "species": "swinub",
         "item": "",
         "ability": "Snow Cloak",
-        "moves": ["endure", "mudslap", "powdersnow", "mudsport"],
+        "moves": [
+          "endure",
+          "mudslap",
+          "powdersnow",
+          "mudsport"
+        ],
         "nature": "Gentle",
         "gender": "F",
         "ivs": {
@@ -5936,7 +6742,11 @@
         "species": "turtwig",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["absorb", "withdraw", "tackle"],
+        "moves": [
+          "absorb",
+          "withdraw",
+          "tackle"
+        ],
         "nature": "Jolly",
         "gender": "M",
         "ivs": {
@@ -5967,7 +6777,12 @@
         "species": "musharna",
         "item": "",
         "ability": "Synchronize",
-        "moves": ["psychicterrain", "psybeam", "luckychant", "hypnosis"],
+        "moves": [
+          "psychicterrain",
+          "psybeam",
+          "luckychant",
+          "hypnosis"
+        ],
         "nature": "Timid",
         "gender": "F",
         "ivs": {
@@ -5998,7 +6813,12 @@
         "species": "hitmonchan",
         "item": "",
         "ability": "Iron Fist",
-        "moves": ["bulletpunch", "machpunch", "pursuit", "agility"],
+        "moves": [
+          "bulletpunch",
+          "machpunch",
+          "pursuit",
+          "agility"
+        ],
         "nature": "Mild",
         "ivs": {
           "hp": 22,
@@ -6097,7 +6917,12 @@
         "species": "lycanroc",
         "item": "",
         "ability": "Keen Eye",
-        "moves": ["Accelerock", "crunch", "stealthrock", "rockslide"],
+        "moves": [
+          "Accelerock",
+          "crunch",
+          "stealthrock",
+          "rockslide"
+        ],
         "nature": "Docile",
         "evs": {
           "hp": 13,
@@ -6128,7 +6953,12 @@
         "species": "carracosta",
         "item": "focus sash",
         "ability": "Solid Rock",
-        "moves": ["liquidation", "crunch", "rock slide", "shellsmash"],
+        "moves": [
+          "liquidation",
+          "crunch",
+          "rock slide",
+          "shellsmash"
+        ],
         "nature": "Jolly",
         "evs": {
           "hp": 21,
@@ -6159,7 +6989,12 @@
         "species": "cradily",
         "item": "",
         "ability": "Suction Cups",
-        "moves": ["gigadrain", "brine", "ancientpower", "confuseray"],
+        "moves": [
+          "gigadrain",
+          "brine",
+          "ancientpower",
+          "confuseray"
+        ],
         "nature": "Modest",
         "gender": "F",
         "ivs": {
@@ -6190,7 +7025,12 @@
         "species": "archeops",
         "item": "flyinium z",
         "ability": "Defeatist",
-        "moves": ["doubleteam", "rockthrow", "acrobatics", "crunch"],
+        "moves": [
+          "doubleteam",
+          "rockthrow",
+          "acrobatics",
+          "crunch"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -6221,7 +7061,12 @@
         "species": "tyranitar",
         "item": "tyranitarite",
         "ability": "sand stream",
-        "moves": ["earthquake", "rock slide", "ice fang", "dragon dance"],
+        "moves": [
+          "earthquake",
+          "rock slide",
+          "ice fang",
+          "dragon dance"
+        ],
         "nature": "Bold",
         "gender": "M",
         "ivs": {
@@ -6252,7 +7097,12 @@
         "species": "golemalola",
         "item": "Air Balloon",
         "ability": "Magnet Pull",
-        "moves": ["selfdestruct", "stealthrock", "rockblast", "thunder punch"],
+        "moves": [
+          "selfdestruct",
+          "stealthrock",
+          "rockblast",
+          "thunder punch"
+        ],
         "nature": "Naughty",
         "evs": {
           "hp": 9,
@@ -6314,14 +7164,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "froakie",
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Impish",
         "gender": "F",
         "ivs": {
@@ -6352,7 +7218,12 @@
         "species": "terrakion",
         "item": "",
         "ability": "Justified",
-        "moves": ["takedown", "smackdown", "quickattack", "leer"],
+        "moves": [
+          "takedown",
+          "smackdown",
+          "quickattack",
+          "leer"
+        ],
         "nature": "Careful",
         "gender": "N",
         "ivs": {
@@ -6383,7 +7254,12 @@
         "species": "squirtle",
         "item": "",
         "ability": "Torrent",
-        "moves": ["bubble", "withdraw", "watergun", "tailwhip"],
+        "moves": [
+          "bubble",
+          "withdraw",
+          "watergun",
+          "tailwhip"
+        ],
         "nature": "Modest",
         "gender": "M",
         "ivs": {
@@ -6406,7 +7282,12 @@
         "species": "escavalier",
         "item": "",
         "ability": "Shell Armor",
-        "moves": ["quickguard", "leer", "twineedle", "peck"],
+        "moves": [
+          "quickguard",
+          "leer",
+          "twineedle",
+          "peck"
+        ],
         "nature": "Lax",
         "gender": "F",
         "ivs": {
@@ -6429,7 +7310,12 @@
         "species": "mismagius",
         "item": "",
         "ability": "Levitate",
-        "moves": ["spite", "psywave", "powergem", "phantomforce"],
+        "moves": [
+          "spite",
+          "psywave",
+          "powergem",
+          "phantomforce"
+        ],
         "nature": "Quiet",
         "gender": "M",
         "ivs": {
@@ -6507,7 +7393,12 @@
         "species": "dartrix",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["tackle", "razorleaf", "ominouswind", "pluck"],
+        "moves": [
+          "tackle",
+          "razorleaf",
+          "ominouswind",
+          "pluck"
+        ],
         "nature": "Naive",
         "gender": "M",
         "ivs": {
@@ -6538,7 +7429,12 @@
         "species": "palkia",
         "item": "",
         "ability": "Pressure",
-        "moves": ["ancientpower", "waterpulse", "dragonbreath", "slash"],
+        "moves": [
+          "ancientpower",
+          "waterpulse",
+          "dragonbreath",
+          "slash"
+        ],
         "nature": "Careful",
         "gender": "N",
         "ivs": {
@@ -6569,7 +7465,12 @@
         "species": "combusken",
         "item": "",
         "ability": "Blaze",
-        "moves": ["quickattack", "flamecharge", "peck", "sandattack"],
+        "moves": [
+          "quickattack",
+          "flamecharge",
+          "peck",
+          "sandattack"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -6600,7 +7501,12 @@
         "species": "latias",
         "item": "",
         "ability": "Levitate",
-        "moves": ["psychoshift", "mistball", "dragonbreath", "healpulse"],
+        "moves": [
+          "psychoshift",
+          "mistball",
+          "dragonbreath",
+          "healpulse"
+        ],
         "nature": "Jolly",
         "gender": "F",
         "ivs": {
@@ -6631,7 +7537,12 @@
         "species": "mewtwo",
         "item": "",
         "ability": "Pressure",
-        "moves": ["psychup", "futuresight", "swift", "safeguard"],
+        "moves": [
+          "psychup",
+          "futuresight",
+          "swift",
+          "safeguard"
+        ],
         "nature": "Serious",
         "gender": "N",
         "ivs": {
@@ -6685,14 +7596,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "torchic",
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["sandattack", "ember", "scratch", "growl"],
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -6723,7 +7650,9 @@
         "species": "beldum",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["takedown"],
+        "moves": [
+          "takedown"
+        ],
         "nature": "Lax",
         "gender": "N",
         "ivs": {
@@ -6746,7 +7675,10 @@
         "species": "wimpod",
         "item": "",
         "ability": "Wimp Out",
-        "moves": ["strugglebug", "sandattack"],
+        "moves": [
+          "strugglebug",
+          "sandattack"
+        ],
         "nature": "Mild",
         "gender": "F",
         "ivs": {
@@ -6871,7 +7803,12 @@
         "species": "garchomp",
         "item": "",
         "ability": "Sand Veil",
-        "moves": ["dig", "dragonclaw", "dragonrush", "crunch"],
+        "moves": [
+          "dig",
+          "dragonclaw",
+          "dragonrush",
+          "crunch"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -6902,7 +7839,12 @@
         "species": "necrozmaduskmane",
         "item": "",
         "ability": "Prism Armor",
-        "moves": ["slash", "morningsun", "moonlight", "mirrorshot"],
+        "moves": [
+          "slash",
+          "morningsun",
+          "moonlight",
+          "mirrorshot"
+        ],
         "nature": "Hasty",
         "ivs": {
           "hp": 2,
@@ -6932,7 +7874,12 @@
         "species": "registeel",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["ancientpower", "curse", "bulldoze", "chargebeam"],
+        "moves": [
+          "ancientpower",
+          "curse",
+          "bulldoze",
+          "chargebeam"
+        ],
         "nature": "Bashful",
         "ivs": {
           "hp": 31,
@@ -6963,7 +7910,12 @@
         "species": "greninja",
         "item": "quickclaw",
         "ability": "battlebond",
-        "moves": ["darkpulse", "surf", "icebeam", "grassknot"],
+        "moves": [
+          "darkpulse",
+          "surf",
+          "icebeam",
+          "grassknot"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -6994,7 +7946,12 @@
         "species": "tyrantrum",
         "item": "",
         "ability": "Strong Jaw",
-        "moves": ["earthquake", "dragonclaw", "crunch", "rockslide"],
+        "moves": [
+          "earthquake",
+          "dragonclaw",
+          "crunch",
+          "rockslide"
+        ],
         "nature": "Quiet",
         "gender": "M",
         "ivs": {
@@ -7025,7 +7982,12 @@
         "species": "charizard",
         "item": "",
         "ability": "Blaze",
-        "moves": ["slash", "flameburst", "firefang", "scaryface"],
+        "moves": [
+          "slash",
+          "flameburst",
+          "firefang",
+          "scaryface"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -7079,14 +8041,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "mudkip",
         "species": "mudkip",
         "item": "",
         "ability": "Torrent",
-        "moves": ["mudslap", "watergun", "tackle", "growl"],
+        "moves": [
+          "mudslap",
+          "watergun",
+          "tackle",
+          "growl"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -7140,14 +8118,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "pikachu",
         "species": "pikachu",
         "item": "",
         "ability": "Static",
-        "moves": ["quickattack", "playnice", "growl", "thundershock"],
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
         "nature": "Bold",
         "gender": "M",
         "ivs": {
@@ -7178,7 +8172,11 @@
         "species": "groudon",
         "item": "",
         "ability": "Drought",
-        "moves": ["scaryface", "mudshot", "ancientpower"],
+        "moves": [
+          "scaryface",
+          "mudshot",
+          "ancientpower"
+        ],
         "nature": "Naive",
         "gender": "N",
         "ivs": {
@@ -7270,7 +8268,12 @@
         "species": "braixen",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "flamecharge", "psybeam", "firespin"],
+        "moves": [
+          "ember",
+          "flamecharge",
+          "psybeam",
+          "firespin"
+        ],
         "nature": "Impish",
         "gender": "M",
         "ivs": {
@@ -7301,7 +8304,12 @@
         "species": "natu",
         "item": "",
         "ability": "Synchronize",
-        "moves": ["luckychant", "nightshade", "peck", "storedpower"],
+        "moves": [
+          "luckychant",
+          "nightshade",
+          "peck",
+          "storedpower"
+        ],
         "nature": "Adamant",
         "gender": "F",
         "ivs": {
@@ -7332,7 +8340,12 @@
         "species": "exeggutor",
         "item": "",
         "ability": "Chlorophyll",
-        "moves": ["psyshock", "stomp", "seedbomb", "hypnosis"],
+        "moves": [
+          "psyshock",
+          "stomp",
+          "seedbomb",
+          "hypnosis"
+        ],
         "nature": "Lax",
         "gender": "M",
         "ivs": {
@@ -7355,7 +8368,11 @@
         "species": "metang",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["takedown", "confusion", "metalclaw"],
+        "moves": [
+          "takedown",
+          "confusion",
+          "metalclaw"
+        ],
         "nature": "Lax",
         "ivs": {
           "hp": 17,
@@ -7385,7 +8402,12 @@
         "species": "gallade",
         "item": "",
         "ability": "Steadfast",
-        "moves": ["healpulse", "aerialace", "furycutter", "quickguard"],
+        "moves": [
+          "healpulse",
+          "aerialace",
+          "furycutter",
+          "quickguard"
+        ],
         "nature": "Hardy",
         "ivs": {
           "hp": 19,
@@ -7407,7 +8429,11 @@
         "species": "alakazam",
         "item": "",
         "ability": "Synchronize",
-        "moves": ["teleport", "miracleeye", "kinesis"],
+        "moves": [
+          "teleport",
+          "miracleeye",
+          "kinesis"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -7469,14 +8495,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "torchic",
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "scratch", "growl", "peck"],
+        "moves": [
+          "ember",
+          "scratch",
+          "growl",
+          "peck"
+        ],
         "nature": "Modest",
         "gender": "M",
         "ivs": {
@@ -7507,7 +8549,12 @@
         "species": "xurkitree",
         "item": "",
         "ability": "Beast Boost",
-        "moves": ["thunderwave", "wrap", "thundershock", "tailglow"],
+        "moves": [
+          "thunderwave",
+          "wrap",
+          "thundershock",
+          "tailglow"
+        ],
         "nature": "Adamant",
         "gender": "N",
         "ivs": {
@@ -7538,7 +8585,12 @@
         "species": "servine",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["leaftornado", "growth", "wrap", "vinewhip"],
+        "moves": [
+          "leaftornado",
+          "growth",
+          "wrap",
+          "vinewhip"
+        ],
         "nature": "Naive",
         "gender": "F",
         "ivs": {
@@ -7569,7 +8621,12 @@
         "species": "steelix",
         "item": "",
         "ability": "Sturdy",
-        "moves": ["stealthrock", "rage", "rocktomb", "rockthrow"],
+        "moves": [
+          "stealthrock",
+          "rage",
+          "rocktomb",
+          "rockthrow"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -7600,7 +8657,12 @@
         "species": "magearnaoriginal",
         "item": "",
         "ability": "Soul-Heart",
-        "moves": ["luckychant", "sonicboom", "shiftgear", "psybeam"],
+        "moves": [
+          "luckychant",
+          "sonicboom",
+          "shiftgear",
+          "psybeam"
+        ],
         "nature": "Docile",
         "gender": "N",
         "ivs": {
@@ -7631,7 +8693,12 @@
         "species": "mewtwo",
         "item": "",
         "ability": "Pressure",
-        "moves": ["futuresight", "swift", "safeguard", "psywave"],
+        "moves": [
+          "futuresight",
+          "swift",
+          "safeguard",
+          "psywave"
+        ],
         "nature": "Naive",
         "gender": "N",
         "ivs": {
@@ -7693,14 +8760,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "eevee",
         "species": "eevee",
         "item": "",
         "ability": "Run Away",
-        "moves": ["babydolleyes", "sandattack", "tailwhip", "tackle"],
+        "moves": [
+          "babydolleyes",
+          "sandattack",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Hardy",
         "gender": "M",
         "ivs": {
@@ -7785,7 +8868,12 @@
         "species": "larvesta",
         "item": "",
         "ability": "Flame Body",
-        "moves": ["absorb", "stringshot", "ember", "takedown"],
+        "moves": [
+          "absorb",
+          "stringshot",
+          "ember",
+          "takedown"
+        ],
         "nature": "Modest",
         "gender": "F",
         "ivs": {
@@ -7816,7 +8904,12 @@
         "species": "skorupi",
         "item": "",
         "ability": "Sniper",
-        "moves": ["pursuit", "acupressure", "knockoff", "bugbite"],
+        "moves": [
+          "pursuit",
+          "acupressure",
+          "knockoff",
+          "bugbite"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -7847,7 +8940,12 @@
         "species": "absol",
         "item": "",
         "ability": "Super Luck",
-        "moves": ["doubleteam", "bite", "taunt", "slash"],
+        "moves": [
+          "doubleteam",
+          "bite",
+          "taunt",
+          "slash"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -7914,7 +9012,12 @@
         "species": "meloetta",
         "item": "",
         "ability": "Serene Grace",
-        "moves": ["sing", "confusion", "quickattack", "round"],
+        "moves": [
+          "sing",
+          "confusion",
+          "quickattack",
+          "round"
+        ],
         "nature": "Serious",
         "ivs": {
           "hp": 31,
@@ -7944,7 +9047,12 @@
         "species": "servine",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["growth", "leechseed", "megadrain", "slam"],
+        "moves": [
+          "growth",
+          "leechseed",
+          "megadrain",
+          "slam"
+        ],
         "nature": "Modest",
         "gender": "M",
         "ivs": {
@@ -8006,14 +9114,29 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "oshawott",
         "species": "oshawott",
         "item": "",
         "ability": "Torrent",
-        "moves": ["watergun", "tailwhip", "tackle"],
+        "moves": [
+          "watergun",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -8088,7 +9211,9 @@
         "species": "beldum",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["takedown"],
+        "moves": [
+          "takedown"
+        ],
         "nature": "Quirky",
         "ivs": {
           "hp": 31,
@@ -8118,7 +9243,12 @@
         "species": "yveltal",
         "item": "flyiniumz",
         "ability": "darkaura",
-        "moves": ["oblivionwing", "foul play", "suckerpunch", "psychic"],
+        "moves": [
+          "oblivionwing",
+          "foul play",
+          "suckerpunch",
+          "psychic"
+        ],
         "nature": "Hasty",
         "gender": "M",
         "ivs": {
@@ -8149,7 +9279,12 @@
         "species": "xerneas",
         "item": "",
         "ability": "Fairy Aura",
-        "moves": ["aurorabeam", "lightscreen", "takedown", "ingrain"],
+        "moves": [
+          "aurorabeam",
+          "lightscreen",
+          "takedown",
+          "ingrain"
+        ],
         "nature": "Bold",
         "gender": "N",
         "ivs": {
@@ -8180,7 +9315,12 @@
         "species": "mewtwo",
         "item": "mewtwonitey",
         "ability": "insomnia",
-        "moves": ["psystrike", "nastyplot", "aurasphere", "fireblast"],
+        "moves": [
+          "psystrike",
+          "nastyplot",
+          "aurasphere",
+          "fireblast"
+        ],
         "nature": "Jolly",
         "gender": "N",
         "ivs": {
@@ -8211,7 +9351,12 @@
         "species": "combusken",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "scratch", "peck", "doublekick"],
+        "moves": [
+          "ember",
+          "scratch",
+          "peck",
+          "doublekick"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -8293,7 +9438,12 @@
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -8324,7 +9474,12 @@
         "species": "togepi",
         "item": "",
         "ability": "Serene Grace",
-        "moves": ["yawn", "sweetkiss", "metronome", "growl"],
+        "moves": [
+          "yawn",
+          "sweetkiss",
+          "metronome",
+          "growl"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -8355,7 +9510,12 @@
         "species": "marill",
         "item": "",
         "ability": "Huge Power",
-        "moves": ["rollout", "defensecurl", "bubble", "watersport"],
+        "moves": [
+          "rollout",
+          "defensecurl",
+          "bubble",
+          "watersport"
+        ],
         "nature": "Quirky",
         "gender": "F",
         "ivs": {
@@ -8386,7 +9546,12 @@
         "species": "magnemite",
         "item": "",
         "ability": "Magnet Pull",
-        "moves": ["lightscreen", "thunderwave", "magnetbomb", "thundershock"],
+        "moves": [
+          "lightscreen",
+          "thunderwave",
+          "magnetbomb",
+          "thundershock"
+        ],
         "nature": "Careful",
         "evs": {
           "hp": 2,
@@ -8416,7 +9581,12 @@
         "species": "popplio",
         "item": "",
         "ability": "Torrent",
-        "moves": ["disarmingvoice", "growl", "watergun", "pound"],
+        "moves": [
+          "disarmingvoice",
+          "growl",
+          "watergun",
+          "pound"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -8503,7 +9673,12 @@
         "species": "xerneas",
         "item": "",
         "ability": "Fairy Aura",
-        "moves": ["gravity", "aurorabeam", "lightscreen", "takedown"],
+        "moves": [
+          "gravity",
+          "aurorabeam",
+          "lightscreen",
+          "takedown"
+        ],
         "nature": "Serious",
         "ivs": {
           "hp": 31,
@@ -8533,7 +9708,12 @@
         "species": "reshiram",
         "item": "",
         "ability": "Turboblaze",
-        "moves": ["imprison", "dragonrage", "ancientpower", "flamethrower"],
+        "moves": [
+          "imprison",
+          "dragonrage",
+          "ancientpower",
+          "flamethrower"
+        ],
         "nature": "Jolly",
         "gender": "N",
         "ivs": {
@@ -8564,7 +9744,12 @@
         "species": "volcanion",
         "item": "",
         "ability": "Water Absorb",
-        "moves": ["flamecharge", "mist", "takedown", "waterpulse"],
+        "moves": [
+          "flamecharge",
+          "mist",
+          "takedown",
+          "waterpulse"
+        ],
         "nature": "Serious",
         "gender": "N",
         "ivs": {
@@ -8595,7 +9780,12 @@
         "species": "moltres",
         "item": "",
         "ability": "Pressure",
-        "moves": ["endure", "agility", "firespin", "wingattack"],
+        "moves": [
+          "endure",
+          "agility",
+          "firespin",
+          "wingattack"
+        ],
         "nature": "Modest",
         "ivs": {
           "hp": 31,
@@ -8625,7 +9815,12 @@
         "species": "ninetalesalola",
         "item": "",
         "ability": "Snow Cloak",
-        "moves": ["safeguard", "nastyplot", "imprison", "iceshard"],
+        "moves": [
+          "safeguard",
+          "nastyplot",
+          "imprison",
+          "iceshard"
+        ],
         "nature": "Serious",
         "evs": {
           "hp": 0,
@@ -8656,7 +9851,12 @@
         "species": "blaziken",
         "item": "",
         "ability": "Blaze",
-        "moves": ["doublekick", "bulkup", "focusenergy", "blazekick"],
+        "moves": [
+          "doublekick",
+          "bulkup",
+          "focusenergy",
+          "blazekick"
+        ],
         "nature": "Lonely",
         "gender": "M",
         "ivs": {
@@ -8746,7 +9946,12 @@
         "species": "greninja",
         "item": "quickclaw",
         "ability": "protean",
-        "moves": ["hydropump", "darkpulse", "watershuriken", "icebeam"],
+        "moves": [
+          "hydropump",
+          "darkpulse",
+          "watershuriken",
+          "icebeam"
+        ],
         "nature": "Docile",
         "evs": {
           "hp": 3,
@@ -8777,7 +9982,12 @@
         "species": "palkia",
         "item": "lustrousorb",
         "ability": "Pressure",
-        "moves": ["spacialrend", "hydropump", "earthpower", "aurasphere"],
+        "moves": [
+          "spacialrend",
+          "hydropump",
+          "earthpower",
+          "aurasphere"
+        ],
         "nature": "Lax",
         "evs": {
           "hp": 4,
@@ -8808,7 +10018,12 @@
         "species": "kyogre",
         "item": "blueorb",
         "ability": "primordialsea",
-        "moves": ["calmmind", "originpulse", "icebeam", "thunder"],
+        "moves": [
+          "calmmind",
+          "originpulse",
+          "icebeam",
+          "thunder"
+        ],
         "nature": "Impish",
         "evs": {
           "hp": 1,
@@ -8838,7 +10053,12 @@
         "species": "gyarados",
         "item": "gyaradosite",
         "ability": "moldbreaker",
-        "moves": ["dragondance", "crunch", "icefang", "waterfall"],
+        "moves": [
+          "dragondance",
+          "crunch",
+          "icefang",
+          "waterfall"
+        ],
         "nature": "Relaxed",
         "evs": {
           "hp": 0,
@@ -8869,7 +10089,11 @@
         "species": "volcanion",
         "item": "shucaberry",
         "ability": "Water Absorb",
-        "moves": ["overheat", "steameruption", "weatherball"],
+        "moves": [
+          "overheat",
+          "steameruption",
+          "weatherball"
+        ],
         "nature": "Careful",
         "evs": {
           "hp": 4,
@@ -8899,7 +10123,12 @@
         "species": "kingdra",
         "item": "",
         "ability": "swiftswim",
-        "moves": ["dragonpulse", "hydropump", "outrage", "icebeam"],
+        "moves": [
+          "dragonpulse",
+          "hydropump",
+          "outrage",
+          "icebeam"
+        ],
         "nature": "Hardy",
         "evs": {
           "hp": 0,
@@ -8980,7 +10209,12 @@
         "species": "rayquaza",
         "item": "lifeorb",
         "ability": "deltastream",
-        "moves": ["dragondance", "dragonascent", "dragonclaw", "extremespeed"],
+        "moves": [
+          "dragondance",
+          "dragonascent",
+          "dragonclaw",
+          "extremespeed"
+        ],
         "nature": "Timid",
         "gender": "M",
         "ivs": {
@@ -9011,7 +10245,12 @@
         "species": "kyuremblack",
         "item": "iapapaberry",
         "ability": "teravolt",
-        "moves": ["fusionbolt", "icebeam", "outrage", "stoneedge"],
+        "moves": [
+          "fusionbolt",
+          "icebeam",
+          "outrage",
+          "stoneedge"
+        ],
         "nature": "Jolly",
         "gender": "M",
         "ivs": {
@@ -9042,7 +10281,12 @@
         "species": "haxorus",
         "item": "weaknesspolicy",
         "ability": "moldbreaker",
-        "moves": ["closecombat", "poisonjab", "outrage", "dragondance"],
+        "moves": [
+          "closecombat",
+          "poisonjab",
+          "outrage",
+          "dragondance"
+        ],
         "nature": "Jolly",
         "evs": {
           "hp": 20,
@@ -9073,7 +10317,12 @@
         "species": "goodra",
         "item": "assaultvest",
         "ability": "sapsipper",
-        "moves": ["dragonpulse", "flamethrower", "thunderbolt", "sludgewave"],
+        "moves": [
+          "dragonpulse",
+          "flamethrower",
+          "thunderbolt",
+          "sludgewave"
+        ],
         "nature": "Hardy",
         "evs": {
           "hp": 4,
@@ -9104,7 +10353,12 @@
         "species": "dragonite",
         "item": "weakness policy",
         "ability": "Multiscale",
-        "moves": ["hurricane", "dragondance", "extremespeed", "outrage"],
+        "moves": [
+          "hurricane",
+          "dragondance",
+          "extremespeed",
+          "outrage"
+        ],
         "nature": "Serious",
         "evs": {
           "hp": 25,
@@ -9135,7 +10389,12 @@
         "species": "zygarde",
         "item": "dragoniumz",
         "ability": "powerconstruct",
-        "moves": ["thousand arrows", "outrage", "dragondance", "extremespeed"],
+        "moves": [
+          "thousand arrows",
+          "outrage",
+          "dragondance",
+          "extremespeed"
+        ],
         "nature": "Adamant",
         "evs": {
           "hp": 43,
@@ -9197,14 +10456,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "corphish",
         "species": "corphish",
         "item": "",
         "ability": "Hyper Cutter",
-        "moves": ["leer", "vicegrip", "harden", "bubble"],
+        "moves": [
+          "leer",
+          "vicegrip",
+          "harden",
+          "bubble"
+        ],
         "nature": "Hardy",
         "gender": "M",
         "ivs": {
@@ -9235,7 +10510,12 @@
         "species": "fennekin",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "tailwhip", "scratch", "howl"],
+        "moves": [
+          "ember",
+          "tailwhip",
+          "scratch",
+          "howl"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -9266,7 +10546,12 @@
         "species": "drifloon",
         "item": "",
         "ability": "Unburden",
-        "moves": ["gust", "astonish", "minimize", "payback"],
+        "moves": [
+          "gust",
+          "astonish",
+          "minimize",
+          "payback"
+        ],
         "nature": "Naughty",
         "gender": "F",
         "ivs": {
@@ -9297,7 +10582,12 @@
         "species": "tynamo",
         "item": "",
         "ability": "Levitate",
-        "moves": ["thunderwave", "tackle", "spark", "chargebeam"],
+        "moves": [
+          "thunderwave",
+          "tackle",
+          "spark",
+          "chargebeam"
+        ],
         "nature": "Jolly",
         "gender": "F",
         "ivs": {
@@ -9320,7 +10610,12 @@
         "species": "stunky",
         "item": "",
         "ability": "Stench",
-        "moves": ["furyswipes", "screech", "poisongas", "scratch"],
+        "moves": [
+          "furyswipes",
+          "screech",
+          "poisongas",
+          "scratch"
+        ],
         "nature": "Hardy",
         "gender": "M",
         "ivs": {
@@ -9343,7 +10638,12 @@
         "species": "ralts",
         "item": "",
         "ability": "Trace",
-        "moves": ["disarmingvoice", "teleport", "doubleteam", "confusion"],
+        "moves": [
+          "disarmingvoice",
+          "teleport",
+          "doubleteam",
+          "confusion"
+        ],
         "nature": "Brave",
         "gender": "F",
         "ivs": {
@@ -9418,7 +10718,12 @@
         "species": "typenull",
         "item": "",
         "ability": "Battle Armor",
-        "moves": ["pursuit", "rage", "tackle", "aerialace"],
+        "moves": [
+          "pursuit",
+          "rage",
+          "tackle",
+          "aerialace"
+        ],
         "nature": "Relaxed",
         "gender": "N",
         "ivs": {
@@ -9449,7 +10754,12 @@
         "species": "registeel",
         "item": "",
         "ability": "Clear Body",
-        "moves": ["chargebeam", "metalclaw", "stomp", "explosion"],
+        "moves": [
+          "chargebeam",
+          "metalclaw",
+          "stomp",
+          "explosion"
+        ],
         "nature": "Lonely",
         "gender": "N",
         "ivs": {
@@ -9472,7 +10782,11 @@
         "species": "hooh",
         "item": "",
         "ability": "Pressure",
-        "moves": ["gust", "whirlwind", "weatherball"],
+        "moves": [
+          "gust",
+          "whirlwind",
+          "weatherball"
+        ],
         "nature": "Timid",
         "gender": "N",
         "ivs": {
@@ -9495,7 +10809,12 @@
         "species": "entei",
         "item": "",
         "ability": "Pressure",
-        "moves": ["roar", "ember", "sacredfire", "leer"],
+        "moves": [
+          "roar",
+          "ember",
+          "sacredfire",
+          "leer"
+        ],
         "nature": "Gentle",
         "gender": "N",
         "ivs": {
@@ -9526,7 +10845,12 @@
         "species": "grovyle",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["quickattack", "absorb", "megadrain", "furycutter"],
+        "moves": [
+          "quickattack",
+          "absorb",
+          "megadrain",
+          "furycutter"
+        ],
         "nature": "Modest",
         "gender": "M",
         "ivs": {
@@ -9557,7 +10881,12 @@
         "species": "yveltal",
         "item": "",
         "ability": "Dark Aura",
-        "moves": ["airslash", "doubleteam", "taunt", "roost"],
+        "moves": [
+          "airslash",
+          "doubleteam",
+          "taunt",
+          "roost"
+        ],
         "nature": "Jolly",
         "gender": "N",
         "ivs": {
@@ -9633,7 +10962,12 @@
         "species": "rowlet",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["peck", "tackle", "leafage", "astonish"],
+        "moves": [
+          "peck",
+          "tackle",
+          "leafage",
+          "astonish"
+        ],
         "nature": "Impish",
         "gender": "F",
         "ivs": {
@@ -9664,7 +10998,12 @@
         "species": "flareon",
         "item": "",
         "ability": "Flash Fire",
-        "moves": ["tailwhip", "tackle", "ember", "quickattack"],
+        "moves": [
+          "tailwhip",
+          "tackle",
+          "ember",
+          "quickattack"
+        ],
         "nature": "Timid",
         "evs": {
           "hp": 3,
@@ -9695,7 +11034,12 @@
         "species": "magearna",
         "item": "",
         "ability": "Soul-Heart",
-        "moves": ["luckychant", "sonicboom", "shiftgear", "psybeam"],
+        "moves": [
+          "luckychant",
+          "sonicboom",
+          "shiftgear",
+          "psybeam"
+        ],
         "nature": "Bashful",
         "gender": "N",
         "ivs": {
@@ -9726,7 +11070,12 @@
         "species": "petilil",
         "item": "",
         "ability": "Chlorophyll",
-        "moves": ["megadrain", "sleeppowder", "leechseed", "growth"],
+        "moves": [
+          "megadrain",
+          "sleeppowder",
+          "leechseed",
+          "growth"
+        ],
         "nature": "Bashful",
         "gender": "F",
         "ivs": {
@@ -9752,7 +11101,7 @@
     "version": "(Alpha) 1.0",
     "userid": "ad067",
     "poke": 0,
-    "time": 30989112,
+    "time": 30996958,
     "bag": {
       "items": {
         "leafstone": 1,
@@ -9803,7 +11152,12 @@
         "species": "Hawlucha",
         "item": "FightiniumZ",
         "ability": "Unburden",
-        "moves": ["highjumpkick", "thunderpunch", "bravebird", "poisonjab"],
+        "moves": [
+          "highjumpkick",
+          "thunderpunch",
+          "bravebird",
+          "poisonjab"
+        ],
         "nature": "Calm",
         "gender": "F",
         "ivs": {
@@ -9834,7 +11188,12 @@
         "species": "gallade",
         "item": "Galladite",
         "ability": "Vital Spirit",
-        "moves": ["poisonjab", "ice punch", "swords dance", "Close Combat"],
+        "moves": [
+          "poisonjab",
+          "ice punch",
+          "swords dance",
+          "Close Combat"
+        ],
         "nature": "Lonely",
         "gender": "F",
         "ivs": {
@@ -9865,7 +11224,12 @@
         "species": "breloom",
         "item": "focus sash",
         "ability": "technician",
-        "moves": ["spore", "mach punch", "bullet seed", "iron tail"],
+        "moves": [
+          "spore",
+          "mach punch",
+          "bullet seed",
+          "iron tail"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -9896,7 +11260,12 @@
         "species": "Blaziken",
         "item": "focus sash",
         "ability": "speed boost",
-        "moves": ["fire punch", "highjumpkick", "protect", "thunder punch"],
+        "moves": [
+          "fire punch",
+          "highjumpkick",
+          "protect",
+          "thunder punch"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -9927,7 +11296,12 @@
         "species": "cobalion",
         "item": "life orb",
         "ability": "Inner Focus",
-        "moves": ["Iron head", "close combat", "swordsdance", "thunder wave"],
+        "moves": [
+          "Iron head",
+          "close combat",
+          "swordsdance",
+          "thunder wave"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -9958,7 +11332,12 @@
         "species": "Pheromosa",
         "item": "life orb",
         "ability": "beast boost",
-        "moves": ["lunge", "ice beam", "drillrun", "highjumpkick"],
+        "moves": [
+          "lunge",
+          "ice beam",
+          "drillrun",
+          "highjumpkick"
+        ],
         "nature": "Bold",
         "gender": "N",
         "ivs": {
@@ -10020,14 +11399,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Calm",
         "gender": "M",
         "ivs": {
@@ -10110,7 +11505,12 @@
         "species": "rotom",
         "item": "",
         "ability": "Levitate",
-        "moves": ["shockwave", "uproar", "trick", "ominouswind"],
+        "moves": [
+          "shockwave",
+          "uproar",
+          "trick",
+          "ominouswind"
+        ],
         "nature": "Timid",
         "gender": "N",
         "ivs": {
@@ -10141,7 +11541,12 @@
         "species": "deino",
         "item": "",
         "ability": "Hustle",
-        "moves": ["roar", "dragonbreath", "headbutt", "bite"],
+        "moves": [
+          "roar",
+          "dragonbreath",
+          "headbutt",
+          "bite"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -10172,7 +11577,12 @@
         "species": "greninja",
         "item": "Waterium Z",
         "ability": "battle bond",
-        "moves": ["ice beam", "scald", "dark pulse", "grass knot"],
+        "moves": [
+          "ice beam",
+          "scald",
+          "dark pulse",
+          "grass knot"
+        ],
         "nature": "Naughty",
         "gender": "M",
         "ivs": {
@@ -10239,7 +11649,12 @@
         "species": "beedrill",
         "item": "beedrillite",
         "ability": "Swarm",
-        "moves": ["drill run", "poison jab", "fell stinger", "X-Scissor"],
+        "moves": [
+          "drill run",
+          "poison jab",
+          "fell stinger",
+          "X-Scissor"
+        ],
         "nature": "Quirky",
         "gender": "F",
         "ivs": {
@@ -10270,7 +11685,12 @@
         "species": "Goodra",
         "item": "choice specs",
         "ability": "gooey",
-        "moves": ["dragon pulse", "Sludge Wave", "Flamethrower", "giga drain"],
+        "moves": [
+          "dragon pulse",
+          "Sludge Wave",
+          "Flamethrower",
+          "giga drain"
+        ],
         "nature": "jolly",
         "gender": "M",
         "ivs": {
@@ -10332,14 +11752,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "froakie",
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -10370,7 +11806,12 @@
         "species": "riolu",
         "item": "",
         "ability": "Inner Focus",
-        "moves": ["counter", "quickattack", "foresight", "endure"],
+        "moves": [
+          "counter",
+          "quickattack",
+          "foresight",
+          "endure"
+        ],
         "nature": "Timid",
         "gender": "F",
         "ivs": {
@@ -10424,14 +11865,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "pikachu",
         "species": "pikachu",
         "item": "",
         "ability": "Static",
-        "moves": ["quickattack", "playnice", "growl", "thundershock"],
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
         "nature": "Hardy",
         "gender": "F",
         "ivs": {
@@ -10493,14 +11950,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -10562,14 +12035,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -10665,7 +12154,12 @@
         "species": "frogadier",
         "item": "",
         "ability": "Torrent",
-        "moves": ["quickattack", "growl", "lick", "waterpulse"],
+        "moves": [
+          "quickattack",
+          "growl",
+          "lick",
+          "waterpulse"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -10696,7 +12190,12 @@
         "species": "charmeleon",
         "item": "oranberry",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "dragonrage"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "dragonrage"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -10727,7 +12226,12 @@
         "species": "slakoth",
         "item": "oranberry",
         "ability": "Truant",
-        "moves": ["slackoff", "encore", "yawn", "scratch"],
+        "moves": [
+          "slackoff",
+          "encore",
+          "yawn",
+          "scratch"
+        ],
         "nature": "Calm",
         "gender": "F",
         "ivs": {
@@ -10750,7 +12254,12 @@
         "species": "magearna",
         "item": "",
         "ability": "Soul-Heart",
-        "moves": ["sonicboom", "shiftgear", "psybeam", "ironhead"],
+        "moves": [
+          "sonicboom",
+          "shiftgear",
+          "psybeam",
+          "ironhead"
+        ],
         "nature": "Hardy",
         "gender": "N",
         "ivs": {
@@ -10781,7 +12290,12 @@
         "species": "carvanha",
         "item": "",
         "ability": "Rough Skin",
-        "moves": ["focusenergy", "rage", "leer", "bite"],
+        "moves": [
+          "focusenergy",
+          "rage",
+          "leer",
+          "bite"
+        ],
         "nature": "Sassy",
         "gender": "F",
         "ivs": {
@@ -10812,7 +12326,12 @@
         "species": "heatran",
         "item": "",
         "ability": "Flash Fire",
-        "moves": ["leer", "magmastorm", "ironhead", "heatwave"],
+        "moves": [
+          "leer",
+          "magmastorm",
+          "ironhead",
+          "heatwave"
+        ],
         "nature": "Adamant",
         "gender": "F",
         "ivs": {
@@ -10898,7 +12417,12 @@
         "species": "ivysaur",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["vinewhip", "leechseed", "growl", "tackle"],
+        "moves": [
+          "vinewhip",
+          "leechseed",
+          "growl",
+          "tackle"
+        ],
         "nature": "Docile",
         "gender": "F",
         "ivs": {
@@ -10929,7 +12453,12 @@
         "species": "celesteela",
         "item": "",
         "ability": "Beast Boost",
-        "moves": ["smackdown", "tackle", "ingrain", "megadrain"],
+        "moves": [
+          "smackdown",
+          "tackle",
+          "ingrain",
+          "megadrain"
+        ],
         "nature": "Sassy",
         "gender": "N",
         "ivs": {
@@ -10960,7 +12489,11 @@
         "species": "reshiram",
         "item": "",
         "ability": "Turboblaze",
-        "moves": ["imprison", "firefang", "dragonrage"],
+        "moves": [
+          "imprison",
+          "firefang",
+          "dragonrage"
+        ],
         "nature": "Modest",
         "gender": "N",
         "ivs": {
@@ -10991,7 +12524,12 @@
         "species": "palkia",
         "item": "",
         "ability": "Pressure",
-        "moves": ["slash", "ancientpower", "waterpulse", "scaryface"],
+        "moves": [
+          "slash",
+          "ancientpower",
+          "waterpulse",
+          "scaryface"
+        ],
         "nature": "Bashful",
         "ivs": {
           "hp": 2,
@@ -11021,7 +12559,12 @@
         "species": "froslass",
         "item": "",
         "ability": "Snow Cloak",
-        "moves": ["astonish", "icywind", "iceshard", "doubleteam"],
+        "moves": [
+          "astonish",
+          "icywind",
+          "iceshard",
+          "doubleteam"
+        ],
         "nature": "Rash",
         "gender": "F",
         "ivs": {
@@ -11075,14 +12618,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "froakie",
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -11113,7 +12672,12 @@
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "scratch", "growl", "sandattack"],
+        "moves": [
+          "ember",
+          "scratch",
+          "growl",
+          "sandattack"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -11144,7 +12708,12 @@
         "species": "tepig",
         "item": "",
         "ability": "Blaze",
-        "moves": ["odorsleuth", "ember", "tailwhip", "tackle"],
+        "moves": [
+          "odorsleuth",
+          "ember",
+          "tailwhip",
+          "tackle"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -11238,7 +12807,12 @@
         "species": "bayleef",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["synthesis", "poisonpowder", "razorleaf", "tackle"],
+        "moves": [
+          "synthesis",
+          "poisonpowder",
+          "razorleaf",
+          "tackle"
+        ],
         "nature": "Hasty",
         "gender": "M",
         "ivs": {
@@ -11269,7 +12843,12 @@
         "species": "pignite",
         "item": "",
         "ability": "Blaze",
-        "moves": ["tackle", "defensecurl", "flamecharge", "armthrust"],
+        "moves": [
+          "tackle",
+          "defensecurl",
+          "flamecharge",
+          "armthrust"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -11300,7 +12879,12 @@
         "species": "popplio",
         "item": "",
         "ability": "Torrent",
-        "moves": ["babydolleyes", "disarmingvoice", "growl", "watergun"],
+        "moves": [
+          "babydolleyes",
+          "disarmingvoice",
+          "growl",
+          "watergun"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -11331,7 +12915,12 @@
         "species": "sewaddle",
         "item": "",
         "ability": "Swarm",
-        "moves": ["razorleaf", "bugbite", "tackle", "stringshot"],
+        "moves": [
+          "razorleaf",
+          "bugbite",
+          "tackle",
+          "stringshot"
+        ],
         "nature": "Bashful",
         "gender": "F",
         "ivs": {
@@ -11362,7 +12951,12 @@
         "species": "grotle",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["absorb", "tackle", "razorleaf", "curse"],
+        "moves": [
+          "absorb",
+          "tackle",
+          "razorleaf",
+          "curse"
+        ],
         "nature": "Careful",
         "gender": "M",
         "ivs": {
@@ -11393,7 +12987,12 @@
         "species": "magnemite",
         "item": "",
         "ability": "Sturdy",
-        "moves": ["thunderwave", "magnetbomb", "thundershock", "tackle"],
+        "moves": [
+          "thunderwave",
+          "magnetbomb",
+          "thundershock",
+          "tackle"
+        ],
         "nature": "Naughty",
         "evs": {
           "hp": 3,
@@ -11454,14 +13053,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "froakie",
         "species": "froakie",
         "item": "",
         "ability": "Torrent",
-        "moves": ["lick", "quickattack", "bubble", "pound"],
+        "moves": [
+          "lick",
+          "quickattack",
+          "bubble",
+          "pound"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -11492,7 +13107,12 @@
         "species": "swablu",
         "item": "",
         "ability": "Natural Cure",
-        "moves": ["sing", "astonish", "peck", "growl"],
+        "moves": [
+          "sing",
+          "astonish",
+          "peck",
+          "growl"
+        ],
         "nature": "Quiet",
         "gender": "M",
         "ivs": {
@@ -11515,7 +13135,12 @@
         "species": "gastly",
         "item": "",
         "ability": "Levitate",
-        "moves": ["meanlook", "spite", "lick", "hypnosis"],
+        "moves": [
+          "meanlook",
+          "spite",
+          "lick",
+          "hypnosis"
+        ],
         "nature": "Timid",
         "gender": "M",
         "ivs": {
@@ -11538,7 +13163,11 @@
         "species": "darumaka",
         "item": "",
         "ability": "Hustle",
-        "moves": ["incinerate", "rollout", "tackle"],
+        "moves": [
+          "incinerate",
+          "rollout",
+          "tackle"
+        ],
         "nature": "Impish",
         "gender": "F",
         "ivs": {
@@ -11561,7 +13190,12 @@
         "species": "sigilyph",
         "item": "",
         "ability": "Magic Guard",
-        "moves": ["tailwind", "psywave", "hypnosis", "miracleeye"],
+        "moves": [
+          "tailwind",
+          "psywave",
+          "hypnosis",
+          "miracleeye"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -11584,7 +13218,12 @@
         "species": "pikachuhoenn",
         "item": "",
         "ability": "Static",
-        "moves": ["quickattack", "playnice", "growl", "thundershock"],
+        "moves": [
+          "quickattack",
+          "playnice",
+          "growl",
+          "thundershock"
+        ],
         "nature": "Relaxed",
         "gender": "M",
         "ivs": {
@@ -11658,7 +13297,12 @@
         "species": "charmeleon",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "dragonrage"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "dragonrage"
+        ],
         "nature": "Bashful",
         "gender": "M",
         "ivs": {
@@ -11689,7 +13333,12 @@
         "species": "escavalier",
         "item": "",
         "ability": "Swarm",
-        "moves": ["furyattack", "twineedle", "quickguard", "leer"],
+        "moves": [
+          "furyattack",
+          "twineedle",
+          "quickguard",
+          "leer"
+        ],
         "nature": "Modest",
         "gender": "F",
         "ivs": {
@@ -11720,7 +13369,12 @@
         "species": "gible",
         "item": "",
         "ability": "Sand Veil",
-        "moves": ["sandtomb", "takedown", "sandstorm", "dragonrage"],
+        "moves": [
+          "sandtomb",
+          "takedown",
+          "sandstorm",
+          "dragonrage"
+        ],
         "nature": "Jolly",
         "gender": "F",
         "ivs": {
@@ -11743,7 +13397,12 @@
         "species": "larvitar",
         "item": "",
         "ability": "Guts",
-        "moves": ["chipaway", "screech", "sandstorm", "leer"],
+        "moves": [
+          "chipaway",
+          "screech",
+          "sandstorm",
+          "leer"
+        ],
         "nature": "Hardy",
         "gender": "F",
         "ivs": {
@@ -11766,7 +13425,12 @@
         "species": "necrozmaduskmane",
         "item": "",
         "ability": "Prism Armor",
-        "moves": ["storedpower", "slash", "morningsun", "moonlight"],
+        "moves": [
+          "storedpower",
+          "slash",
+          "morningsun",
+          "moonlight"
+        ],
         "nature": "Naive",
         "gender": "N",
         "ivs": {
@@ -11797,7 +13461,11 @@
         "species": "rayquaza",
         "item": "",
         "ability": "Air Lock",
-        "moves": ["ancientpower", "scaryface", "twister"],
+        "moves": [
+          "ancientpower",
+          "scaryface",
+          "twister"
+        ],
         "nature": "Quirky",
         "ivs": {
           "hp": 27,
@@ -11858,14 +13526,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "kadubhaiya",
         "species": "pignite",
         "item": "",
         "ability": "Blaze",
-        "moves": ["tailwhip", "flamecharge", "armthrust", "smog"],
+        "moves": [
+          "tailwhip",
+          "flamecharge",
+          "armthrust",
+          "smog"
+        ],
         "nature": "Hardy",
         "gender": "M",
         "ivs": {
@@ -11896,7 +13580,12 @@
         "species": "rufflet",
         "item": "",
         "ability": "Sheer Force",
-        "moves": ["wingattack", "furyattack", "peck", "honeclaws"],
+        "moves": [
+          "wingattack",
+          "furyattack",
+          "peck",
+          "honeclaws"
+        ],
         "nature": "Mild",
         "gender": "M",
         "ivs": {
@@ -11927,7 +13616,12 @@
         "species": "sawk",
         "item": "",
         "ability": "Sturdy",
-        "moves": ["counter", "lowsweep", "rocksmash", "karatechop"],
+        "moves": [
+          "counter",
+          "lowsweep",
+          "rocksmash",
+          "karatechop"
+        ],
         "nature": "Timid",
         "gender": "M",
         "ivs": {
@@ -11958,7 +13652,12 @@
         "species": "latios",
         "item": "",
         "ability": "Levitate",
-        "moves": ["refresh", "storedpower", "dragondance", "protect"],
+        "moves": [
+          "refresh",
+          "storedpower",
+          "dragondance",
+          "protect"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -12020,14 +13719,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "torchic",
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["sandattack", "ember", "scratch", "growl"],
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -12081,14 +13796,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "popplio",
         "species": "popplio",
         "item": "",
         "ability": "Torrent",
-        "moves": ["disarmingvoice", "growl", "watergun", "pound"],
+        "moves": [
+          "disarmingvoice",
+          "growl",
+          "watergun",
+          "pound"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -12150,14 +13881,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "mudkip",
         "species": "mudkip",
         "item": "",
         "ability": "Torrent",
-        "moves": ["mudslap", "watergun", "tackle", "growl"],
+        "moves": [
+          "mudslap",
+          "watergun",
+          "tackle",
+          "growl"
+        ],
         "nature": "Gentle",
         "gender": "M",
         "ivs": {
@@ -12188,7 +13935,12 @@
         "species": "taillow",
         "item": "",
         "ability": "Guts",
-        "moves": ["quickattack", "focusenergy", "peck", "growl"],
+        "moves": [
+          "quickattack",
+          "focusenergy",
+          "peck",
+          "growl"
+        ],
         "nature": "Docile",
         "gender": "F",
         "ivs": {
@@ -12219,7 +13971,12 @@
         "species": "anorith",
         "item": "",
         "ability": "Battle Armor",
-        "moves": ["smackdown", "furycutter", "watergun", "mudsport"],
+        "moves": [
+          "smackdown",
+          "furycutter",
+          "watergun",
+          "mudsport"
+        ],
         "nature": "Naughty",
         "gender": "M",
         "ivs": {
@@ -12250,7 +14007,12 @@
         "species": "koffing",
         "item": "",
         "ability": "Levitate",
-        "moves": ["assurance", "smokescreen", "smog", "tackle"],
+        "moves": [
+          "assurance",
+          "smokescreen",
+          "smog",
+          "tackle"
+        ],
         "nature": "Timid",
         "gender": "M",
         "ivs": {
@@ -12333,7 +14095,12 @@
         "species": "Sylveon",
         "item": "Leftovers",
         "ability": "pixilate",
-        "moves": ["hypervoice", "protect", "baton pass", "calm mind"],
+        "moves": [
+          "hypervoice",
+          "protect",
+          "baton pass",
+          "calm mind"
+        ],
         "nature": "Docile",
         "gender": "F",
         "ivs": {
@@ -12364,7 +14131,12 @@
         "species": "Magearna-Original",
         "item": "Fairium z",
         "ability": "Soul-Heart",
-        "moves": ["shiftgear", "dazzlinggleam", "aura sphere", "flash cannon"],
+        "moves": [
+          "shiftgear",
+          "dazzlinggleam",
+          "aura sphere",
+          "flash cannon"
+        ],
         "nature": "Sassy",
         "gender": "M",
         "ivs": {
@@ -12395,7 +14167,12 @@
         "species": "klefki",
         "item": "light clay",
         "ability": "Prankster",
-        "moves": ["reflect", "light screen", "thunder wave", "play rough"],
+        "moves": [
+          "reflect",
+          "light screen",
+          "thunder wave",
+          "play rough"
+        ],
         "nature": "Lonely",
         "gender": "F",
         "ivs": {
@@ -12418,7 +14195,12 @@
         "species": "gardevoir",
         "item": "Gardevoirite",
         "ability": "pixilate",
-        "moves": ["calm mind", "hyper voice", "psychic", "shadow ball"],
+        "moves": [
+          "calm mind",
+          "hyper voice",
+          "psychic",
+          "shadow ball"
+        ],
         "nature": "Hasty",
         "gender": "N",
         "ivs": {
@@ -12449,7 +14231,12 @@
         "species": "arceus",
         "item": "pixie plate",
         "ability": "Multitype",
-        "moves": ["Judgment", "calm mind", "Psychic", "earthpower"],
+        "moves": [
+          "Judgment",
+          "calm mind",
+          "Psychic",
+          "earthpower"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -12480,7 +14267,12 @@
         "species": "xerneas",
         "item": "choicespecs",
         "ability": "fairy aura",
-        "moves": ["thunderbolt", "moonblast", "focus blast", "psychic"],
+        "moves": [
+          "thunderbolt",
+          "moonblast",
+          "focus blast",
+          "psychic"
+        ],
         "nature": "Hasty",
         "gender": "N",
         "ivs": {
@@ -12542,14 +14334,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "torchic",
         "species": "torchic",
         "item": "",
         "ability": "Blaze",
-        "moves": ["sandattack", "ember", "scratch", "growl"],
+        "moves": [
+          "sandattack",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Naive",
         "gender": "M",
         "ivs": {
@@ -12638,7 +14446,12 @@
         "species": "naganadel",
         "item": "",
         "ability": "Beast Boost",
-        "moves": ["venoshock", "aircutter", "nastyplot", "poisonjab"],
+        "moves": [
+          "venoshock",
+          "aircutter",
+          "nastyplot",
+          "poisonjab"
+        ],
         "nature": "Docile",
         "ivs": {
           "hp": 30,
@@ -12668,7 +14481,12 @@
         "species": "skorupi",
         "item": "",
         "ability": "Sniper",
-        "moves": ["acupressure", "knockoff", "poisonsting", "bugbite"],
+        "moves": [
+          "acupressure",
+          "knockoff",
+          "poisonsting",
+          "bugbite"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -12699,7 +14517,12 @@
         "species": "ekans",
         "item": "",
         "ability": "Intimidate",
-        "moves": ["screech", "glare", "bite", "acid"],
+        "moves": [
+          "screech",
+          "glare",
+          "bite",
+          "acid"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -12730,7 +14553,12 @@
         "species": "salandit",
         "item": "",
         "ability": "Corrosion",
-        "moves": ["dragonrage", "ember", "scratch", "smog"],
+        "moves": [
+          "dragonrage",
+          "ember",
+          "scratch",
+          "smog"
+        ],
         "nature": "Serious",
         "gender": "M",
         "ivs": {
@@ -12761,7 +14589,12 @@
         "species": "mareanie",
         "item": "",
         "ability": "Limber",
-        "moves": ["bite", "peck", "poisonsting", "toxicspikes"],
+        "moves": [
+          "bite",
+          "peck",
+          "poisonsting",
+          "toxicspikes"
+        ],
         "nature": "Modest",
         "gender": "F",
         "ivs": {
@@ -12792,7 +14625,12 @@
         "species": "nihilego",
         "item": "",
         "ability": "Beast Boost",
-        "moves": ["clearsmog", "tickle", "powersplit", "psywave"],
+        "moves": [
+          "clearsmog",
+          "tickle",
+          "powersplit",
+          "psywave"
+        ],
         "nature": "Modest",
         "ivs": {
           "hp": 23,
@@ -12873,7 +14711,12 @@
         "species": "charmeleon",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "dragonrage"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "dragonrage"
+        ],
         "nature": "Rash",
         "gender": "M",
         "ivs": {
@@ -12904,7 +14747,12 @@
         "species": "dartrix",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["synthesis", "pluck", "foresight", "ominouswind"],
+        "moves": [
+          "synthesis",
+          "pluck",
+          "foresight",
+          "ominouswind"
+        ],
         "nature": "Brave",
         "gender": "M",
         "ivs": {
@@ -12935,7 +14783,12 @@
         "species": "ivysaur",
         "item": "",
         "ability": "Overgrow",
-        "moves": ["sweetscent", "razorleaf", "takedown", "poisonpowder"],
+        "moves": [
+          "sweetscent",
+          "razorleaf",
+          "takedown",
+          "poisonpowder"
+        ],
         "nature": "Hasty",
         "gender": "M",
         "ivs": {
@@ -12966,7 +14819,9 @@
         "species": "rotomfan",
         "item": "",
         "ability": "Levitate",
-        "moves": ["airslash"],
+        "moves": [
+          "airslash"
+        ],
         "nature": "Mild",
         "gender": "N",
         "ivs": {
@@ -13085,7 +14940,12 @@
         "species": "druddigon",
         "item": "",
         "ability": "Sheer Force",
-        "moves": ["bite", "honeclaws", "dragonrage", "dragonclaw"],
+        "moves": [
+          "bite",
+          "honeclaws",
+          "dragonrage",
+          "dragonclaw"
+        ],
         "nature": "Naive",
         "gender": "M",
         "ivs": {
@@ -13116,7 +14976,12 @@
         "species": "goomy",
         "item": "",
         "ability": "Sap Sipper",
-        "moves": ["dragonbreath", "protect", "absorb", "flail"],
+        "moves": [
+          "dragonbreath",
+          "protect",
+          "absorb",
+          "flail"
+        ],
         "nature": "Quiet",
         "gender": "M",
         "ivs": {
@@ -13147,7 +15012,12 @@
         "species": "rayquaza",
         "item": "",
         "ability": "Air Lock",
-        "moves": ["twister", "ancientpower", "crunch", "airslash"],
+        "moves": [
+          "twister",
+          "ancientpower",
+          "crunch",
+          "airslash"
+        ],
         "nature": "Jolly",
         "evs": {
           "hp": 32,
@@ -13177,7 +15047,12 @@
         "species": "palkia",
         "item": "",
         "ability": "Pressure",
-        "moves": ["dragonclaw", "aquatail", "aquaring", "powergem"],
+        "moves": [
+          "dragonclaw",
+          "aquatail",
+          "aquaring",
+          "powergem"
+        ],
         "nature": "Hardy",
         "ivs": {
           "hp": 31,
@@ -13207,7 +15082,12 @@
         "species": "latias",
         "item": "",
         "ability": "Levitate",
-        "moves": ["dragonbreath", "refresh", "storedpower", "mistball"],
+        "moves": [
+          "dragonbreath",
+          "refresh",
+          "storedpower",
+          "mistball"
+        ],
         "nature": "Quirky",
         "evs": {
           "hp": 4,
@@ -13237,7 +15117,12 @@
         "species": "gabite",
         "item": "",
         "ability": "Sand Veil",
-        "moves": ["sandtomb", "takedown", "dualchop", "dragonclaw"],
+        "moves": [
+          "sandtomb",
+          "takedown",
+          "dualchop",
+          "dragonclaw"
+        ],
         "nature": "Timid",
         "evs": {
           "hp": 9,
@@ -13319,7 +15204,12 @@
         "species": "palkia",
         "item": "",
         "ability": "Pressure",
-        "moves": ["powergem", "slash", "ancientpower", "waterpulse"],
+        "moves": [
+          "powergem",
+          "slash",
+          "ancientpower",
+          "waterpulse"
+        ],
         "nature": "Gentle",
         "gender": "N",
         "ivs": {
@@ -13350,7 +15240,12 @@
         "species": "combusken",
         "item": "",
         "ability": "Blaze",
-        "moves": ["ember", "doublekick", "flamecharge", "quickattack"],
+        "moves": [
+          "ember",
+          "doublekick",
+          "flamecharge",
+          "quickattack"
+        ],
         "nature": "Docile",
         "gender": "M",
         "ivs": {
@@ -13381,7 +15276,12 @@
         "species": "Gardevoir",
         "item": "Gardevoirite",
         "ability": "Torrent",
-        "moves": ["psychic", "moon blast", "disarmingvoice", "bubblebeam"],
+        "moves": [
+          "psychic",
+          "moon blast",
+          "disarmingvoice",
+          "bubblebeam"
+        ],
         "nature": "Quirky",
         "gender": "M",
         "ivs": {
@@ -13468,7 +15368,12 @@
         "species": "groudon",
         "item": "redorb",
         "ability": "desolateland",
-        "moves": ["precipiceblades", "swordsdance", "heatcrash", "stoneedge"],
+        "moves": [
+          "precipiceblades",
+          "swordsdance",
+          "heatcrash",
+          "stoneedge"
+        ],
         "nature": "Lonely",
         "gender": "M",
         "ivs": {
@@ -13530,14 +15435,30 @@
         "alphaticket": 1
       }
     },
-    "pc": [[], [], [], [], [], [], [], [], [], []],
+    "pc": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
     "party": [
       {
         "name": "charmander",
         "species": "charmander",
         "item": "",
         "ability": "Blaze",
-        "moves": ["smokescreen", "ember", "scratch", "growl"],
+        "moves": [
+          "smokescreen",
+          "ember",
+          "scratch",
+          "growl"
+        ],
         "nature": "Docile",
         "gender": "F",
         "ivs": {
