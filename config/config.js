@@ -104,7 +104,7 @@ exports.poof = true;
 exports.expTimer = 30000;
 
 // add system operators.
-exports.special = ["thedarksunset", "adarshkr"];
+exports.special = ["thedarksunset", "adarshkr", "Thedarksoull"];
 
 /**
  * crash guard - write errors to log file instead of crashing
@@ -335,7 +335,7 @@ exports.inactiveuserthreshold = 1000 * 60 * 60;
  * in lockdown mode and the final battle finishes.  This is potentially useful
  * to prevent forgetting to restart after a lockdown where battles are finished.
  */
-exports.special = ["xdragonprince","adarshkr"];
+exports.special = ["xdragonprince", "adarshkr", "Thedarksoull"];
 exports.autolockdown = true;
 
 /**
@@ -464,6 +464,13 @@ exports.disablehotpatchall = false;
  *     - roomshop: manage room shops
  */
 exports.grouplist = [
+  {
+    symbol: "\u03A8",
+    id: "mindm",
+    name: "sysop",
+    root: true,
+    globalonly: true
+    },
   {
     symbol: "~",
     id: "admin",
